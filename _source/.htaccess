@@ -1,0 +1,21 @@
+ErrorDocument 404 /404.html
+Options -Indexes
+
+# About
+Redirect 301 /info /about
+Redirect 301 /is /about
+Redirect 301 /profile /about
+Redirect 301 /CV.pdf /about
+
+# Portfolio
+Redirect 301 /makes /work
+Redirect 301 /design /work
+Redirect 301 /portfolio /work
+
+# Writing
+Redirect 301 /blog /shares
+Redirect 301 /stream /shares
+Redirect 301 /writes /essays
+Redirect 301 /writing /essays
+Redirect 301 /articles /essays
+Redirect 301 /thoughts /essays

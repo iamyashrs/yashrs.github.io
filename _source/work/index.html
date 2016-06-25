@@ -1,0 +1,25 @@
+---
+title: Portfolio of Yash Raj Singh
+class: portfolio
+---
+
+<section class="writes-introduction width-two">
+  <h1>work</h1>
+</section>
+
+<section class="projects">
+  <ul data-essays>
+  {% for project in site.categories.projects %}
+    <li>
+      {{ project.content }}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section class="portfolio-copyright align-rights width-two">
+  Everything here &copy; Yash Raj Singh 2014-2016.
+  <br/>Be nice, don’t steal. <strong>Thanks for looking.</strong>
+</section>
+
+{% include footer.html %}

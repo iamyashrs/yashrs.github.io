@@ -1,0 +1,40 @@
+---
+title: Yash Raj Singh
+class: home
+javascript: 
+- masonry.pkgd.min
+- imagesloaded.pkgd.min
+---
+
+<center>
+<section id="index">
+  	<div class="grid">
+		{% for project in site.categories.projects %}
+		    <a href="{{ project.url }}/" class="grid-item box col3" data-words="{{ project.content | number_of_words }}" data-date="{{ forloop.index }}">
+				<img src="{{ project.image }}">
+				<div class="info" style="{% if project.do_not_show_details %}display:none;{% endif %}">
+		          	<hgroup>  
+			            <p>{{ project.title }}</p>
+			            {% if project.type %} 
+				            <h4>type</h4>
+				            <p>{{ project.type }}</p> 
+			            {% endif %} 
+		        	</hgroup>
+		        </div>
+			</a>
+		{% endfor %}
+	</div>
+</section>
+</center>
+
+<script type="text/javascript">
+	var $container = $('.content');
+	// initialize Masonry after all images have loaded  
+	$container.imagesLoaded( function() {
+		$('.grid').masonry({
+		  // options
+		  itemSelector: '.grid-item',
+		  columnWidth: 70
+		});
+	});
+</script>

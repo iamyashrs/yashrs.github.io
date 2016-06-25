@@ -1,0 +1,38 @@
+---
+title: About - Yash Raj Singh
+class: about
+---
+
+<section class="writes-introduction">
+	<h1>Hi.</h1>
+</section>
+
+<section class="about-biography">
+  <article class="about-biography-long">
+    <p>I'm Yash Raj Singh, I mostly work on design and engineering, which i hope would matter to someone. <br/>I would love to help, in possible ways i can, Shoot me a <a href="mailto:{{ site.email }}">mail</a>.</p>
+    <p><a href="/assets/docs/CV.pdf">View my CV</a></p>
+  </article>
+</section>
+
+<section class="links">
+  <h3>I took part in:</h3>
+  <ul>
+  {% for entry in site.data.part-of %}
+    <li>
+      <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a> {{ entry.info }}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+
+
+<section class="links">
+  <h3>I did my schooling from:</h3>
+  <ul>
+  {% for entry in site.data.school %}
+    <li>
+      <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a> {{ entry.info }}
+    </li>
+  {% endfor %}
+  </ul>
+</section>

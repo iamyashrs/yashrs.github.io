@@ -1,0 +1,191 @@
+// Navigation ———————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+.nav {
+  @include border-box;
+  background-color: #ffea00;
+  font-family: $font-alto;
+  margin-bottom: 1em;
+  left: 0;
+  padding: .5em 1em;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1968;
+}
+
+.nav-home {
+  color: black;
+  display: inline-block;
+  font-weight: bold;
+
+  &:visited,
+  &:hover,
+  &:active {
+    color: black;
+  }
+
+  &:hover { text-decoration: underline; }
+}
+
+.nav-links {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1986;
+
+  a {
+    @include border-box;
+    background-color: rgb(216, 182, 18);
+    display: block;
+    padding: .5em 1.25em;
+    margin: 0;
+
+    &:link,
+    &:visited { color: black; }
+
+    &:hover { background-color: #ffea00; }
+  }
+
+  li {
+    display: block;
+
+    &:first-child a { padding-top: 1.1em; }
+
+    &:last-child a {
+      @include border-radius(0 0 0 3px);
+      padding-bottom: 1.1em;
+    }
+  }
+}
+
+.nav-links-trigger {
+  @include border-box;
+  background: none;
+  border: none;
+  color: black;
+  display: block;
+  font-family: $font-sans;
+  font-size: 1em;
+  margin: 0;
+  padding: .7em 1em .65em;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.nav-links-list {
+  display: none;
+  padding: 1em 0;
+  position: absolute;
+  right: 0;
+  top: 1.5em;
+}
+
+.nav-links-expanded {
+
+  .nav-links-trigger { background-color: rgb(216, 182, 18); }
+
+  .nav-links-list { display: block; }
+}
+
+.nav-title,
+.nav-contact {
+  display: none;
+}
+
+
+// Navigation: Current Page —————————————————— •
+// ——————————————————————————————————————————— •
+
+body.about .nav-link-about, body.contact .nav-link-contact,
+body.portfolio .nav-link-portfolio,
+body.writes .nav-link-writes,
+body.shares .nav-link-shares,
+body.loves .nav-link-loves {
+  text-decoration: underline;
+}
+
+
+// Navigation: Desktop ——————————————————————— •
+// ——————————————————————————————————————————— •
+
+@include responsive-break-point(800px) {
+  .nav {
+    @include border-box;
+    background-color: transparent;
+    font-size: .9rem;
+    line-height: 1.2em;
+    margin-bottom: 1em;
+    margin-top: 0;
+    padding: 35px 5px 20px 25px;
+    left: 20px;
+    width: 17%;
+    z-index: 1986;
+
+    &:hover { cursor: default; }
+
+    div { margin-top: 2em; }
+    h5 { margin-top: 1em; }
+    p { margin-bottom: 0; }
+    address { font-style: normal; }
+  }
+
+  .nav-home {
+    color: #333;
+    display: none;
+
+    &:visited,
+    &:active { color: #333; }
+
+    &:hover { color: $color-link; }
+  }
+
+  .nav-links {
+    position: relative;
+    left: 0;
+    top: 0;
+
+    a {
+      background-color: transparent;
+      margin: -.1em;
+      padding: .1em;
+
+      &:link,
+      &:visited { color: $color-link; }
+
+      &:hover { background-color: transparent; }
+    }
+
+    li {
+      margin: 0;
+
+      &:first-child a { padding-top: .1em; }
+      &:last-child a { padding-bottom: .1em; }
+    }
+  }
+
+  .nav-links-trigger { display: none; }
+
+  .nav-links-list {
+    background-color: transparent;
+    display: block;
+    padding: 0;
+
+    list-style: none;
+    margin: 30px 0 12px 0;
+    line-height: 22px;
+
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  .nav-title,
+  .nav-contact {
+    display: block;
+
+    a:link,
+    a:visited { color: $color-link; }
+  }
+}

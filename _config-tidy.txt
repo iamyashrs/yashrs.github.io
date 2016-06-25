@@ -1,0 +1,33 @@
+// HTML Options
+char-encoding: utf8
+doctype: html5
+input-xml: no
+literal-attributes: yes
+new-blocklevel-tags: cfoutput, cfquery
+new-empty-tags: cfelse, span
+new-inline-tags: cfif, cfelse, math, mroot,
+  mrow, mi, mn, mo, msqrt, mfrac, msubsup, munderover,
+  munder, mover, mmultiscripts, msup, msub, mtext,
+  mprescripts, mtable, mtr, mtd, mth, span
+output-html: yes
+output-xml: no
+tidy-mark: no
+write-back: yes
+
+// Pretty Print
+break-before-br: no
+drop-empty-paras: yes
+indent: auto
+indent-attributes: no
+indent-spaces: 2
+markup: yes
+sort-attributes: alpha
+tab-size: 2
+vertical-space: no
+wrap: 0
+wrap-attributes: 0
+
+// Diagnostics
+quiet: yes
+show-info: no
+show-warnings: no

@@ -1,0 +1,23 @@
+// Presentation: Desktop ————————————————————— •
+// ——————————————————————————————————————————— •
+
+@include responsive-break-point(768px) {
+  .presentation {
+    @include debug;
+    background-color: rgba(0,0,0,.8);
+    cursor: -webkit-zoom-out;
+    display: none;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5000;
+
+    .presentation-content {
+      @include animate(fade-in-up .5s both);
+      margin: 2em auto 0;
+    }
+  }
+}

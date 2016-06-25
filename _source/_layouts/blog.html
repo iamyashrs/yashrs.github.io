@@ -1,0 +1,19 @@
+{% include head.html %}
+  <body class="essay{% if page.class %} {{ page.class }}{% endif %}">
+    {% include navigation.html %}
+
+      <div class="content">
+        <article class="essay-content">
+          <h1>{{ page.title }} <em class="essay-author">by {{ site.author }}, on {{ page.date | date: "%B %d, %Y" }}.</em></h1>
+
+          {{ content }}
+
+          <p><em class="essay-content-meta">This was written by {{ site.author }}, on {{ page.date | date: "%B %d, %Y" }}.</em></p>
+        </article>
+
+        <p><a href="/shares">&larr; Read all {{ site.categories.shares | size }} blog posts</a></p>
+
+        {% include footer.html %}
+      </div>
+  </body>
+</html>

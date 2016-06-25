@@ -1,0 +1,10 @@
+{% if page.comment %}
+<!--
+  {{ page.comment }}
+-->
+{% endif %}
+{% include head.html %}
+  <body{% if page.class %} class="{{ page.class }}"{% endif %}>
+    {{ content }}
+  </body>
+</html>

@@ -1,0 +1,41 @@
+title:       Yash Raj Singh
+subtitle:    "Developer, Designer, Hacker"
+description: Yash mostly works on the design and engineering of various helpful products.
+
+author:    Yash Raj Singh
+email: 	   mail.yashrajsingh@gmail.com
+github:    https://github.com/yashrajsingh/
+twitter:   https://twitter.com/iamyashrajsingh
+facebook:  https://facebook.com/yashrajsingh.net
+google:    https://google.com/+YashRajSingh
+linkedin:  https://in.linkedin.com/in/yashrajsingh/
+
+source:      _source
+destination: public
+exclude:     [public, Gemfile, Gemfile.lock, Rakefile, README.md]
+
+markdown:  rdiscount
+permalink: /:title
+gems:
+  - jekyll-coffeescript
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "Yash Raj Singh, Developer at BetaCraft"
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
+      category: shares
+
+sass:
+  style:    :compressed
+  sass_dir: assets/stylesheets

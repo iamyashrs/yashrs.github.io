@@ -1,0 +1,27 @@
+---
+title: Blog - Yash Raj Singh
+class: shares
+---
+
+<section class="writes-essays">
+
+  <section class="writes-introduction">
+    <h1>blog</h1>
+  </section>
+
+  <ul class="writes-essays-list" data-essays>
+  {% for essay in site.categories.shares %}
+    <li class="writes-essay"{% if essay.favorite %} data-favorite{% endif %} data-words="{{ essay.content | number_of_words }}" data-date="{{ forloop.index }}">
+      <a href="{{ essay.url }}/">
+        <h2>{{ essay.title }}</h2>
+        <p>{{ essay.preview }}</p>
+        <div class="blog-thumb" style="background-image: url('{{ essay.image }}');"></div>
+        <p>
+          <small data-essay-date="{{ essay.date | date_to_xmlschema }}">{{ essay.date | date: "%B %Y" }}</small>
+        </p>
+      </a>
+    </li>
+  {% endfor %}
+    <p style="clear: left;"><a href="/feed.xml"><img src="/assets/images/writes/rss.png" alt="Get the RSS feed."/></a></p>
+  </ul>
+</section>

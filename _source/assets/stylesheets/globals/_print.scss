@@ -1,0 +1,13 @@
+// Print Styles —————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+@media print {
+  body {
+    border-top: none;
+  }
+
+  .nav,
+  .footer {
+    display: none;
+  }
+}

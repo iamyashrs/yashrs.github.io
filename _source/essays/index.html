@@ -1,0 +1,46 @@
+---
+title: Essays by Yash Raj Singh
+class: writes
+---
+
+<section class="writes-essays">
+
+  <section class="writes-introduction">
+    {% if site.categories.writes | size >= 0 %}
+      <h1>essays</h1>
+    {% else %}
+      <h3 style="font-size: 20px;">i'll write them soon .. <br/>But thanks for looking :)</h3>
+    {% endif %}
+  </section>
+
+  {% if site.categories.writes | size >= 0 %}
+    <ul class="writes-essays-list" data-essays>
+      {% for essay in site.categories.writes %}
+        <li class="writes-essay"{% if essay.favorite %} data-favorite{% endif %} data-words="{{ essay.content | number_of_words }}" data-date="{{ forloop.index }}">
+          <a href="{{ essay.url }}/">
+            <h2>{{ essay.title }}</h2>
+            <p>{{ essay.preview }}</p>
+            <p>
+              <small data-reading-time></small>
+              <small data-essay-date="{{ essay.date | date_to_xmlschema }}">{{ essay.date | date: "%B %Y" }}</small>
+            </p>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+
+    <aside class="essay-toggles">
+      <ul class="essay-toggles-radios">
+        <li data-essay-filter="recent" class="essay-toggle selected"><span class="essay-ui-radio">&nbsp;</span>Newest first</li>
+        <li data-essay-filter="shortest" class="essay-toggle"><span class="essay-ui-radio">&nbsp;</span>Shortest first</li>
+      </ul>
+
+      <ul class="essay-toggles-checkboxes">
+        <li data-essay-filter="favorites" class="essay-toggle">My favorites</li>
+      </ul>
+
+      <p><a href="/feed.xml"><img src="/assets/images/writes/rss.png" alt="Get the RSS feed."/></a></p>
+    </aside>
+  {% endif %}
+</section>
