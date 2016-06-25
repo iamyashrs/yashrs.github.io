@@ -1,30 +1,507 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Yash Raj Singh</title>
+    <description>Yash mostly works on the design and engineering of various helpful products.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Jun 2016 21:55:14 +0530</pubDate>
+    <lastBuildDate>Sat, 25 Jun 2016 21:55:14 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Project Yello</title>
+        <description>
+
+&lt;div class=&quot;project spacing-one width-four&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/cover.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/cover@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo project-logo-help clear-left width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo1.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo1@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description fit-right width-four&quot;&gt;
+  &lt;h3&gt;Project Yello&lt;/h3&gt;
+  &lt;p&gt;In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &#39;what student learned&#39; and &#39;what student is taught&#39;. The things we were taught in college, were of no use most of the times, because students didn&#39;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge.You can take a look at the &lt;a href=&quot;https://github.com/yashrajsingh/ProjectYello-Desktop&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo project-logo-hive clear-left spacing-one width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo2.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo2@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo project-logo-dash clear-left spacing-two width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo3.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo3@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description project-description-basecamp-logos spacing-three width-two&quot;&gt;
+  &lt;h3&gt;Logos&lt;/h3&gt;
+  &lt;p&gt;For branding and identity work, we worked on an logo which would feel familiar to the students.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-poster clear-left width-two&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster1.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster1@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description fit-right width-two&quot;&gt;
+  &lt;h3&gt;Posters&lt;/h3&gt;
+  &lt;p&gt;To promote the project yello within the campus, we published some custom made posters for students on the &lt;a href=&quot;https://www.facebook.com/ProjectYello&quot; target=&quot;_blank&quot;&gt;facebook page&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-poster width-three&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster2.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster2@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-poster project-poster-flosstradamus clear-left spacing-one width-two&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster3.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster3@2x.png&quot;&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 +0530</pubDate>
+        <link>/project-yello</link>
+        <guid isPermaLink="true">/project-yello</guid>
+        
+        
+        <category>projects</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>TellMeWeatherNow!</title>
+        <description>&lt;div class=&quot;project project-phone clear-left spacing-one width-one&quot;&gt;
+  &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss_mobile.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss_mobile@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-website fit-right width-three&quot;&gt;
+  &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description width-three&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;TellMeWeatherNow!&lt;/a&gt;&lt;/h3&gt;
+  &lt;p&gt;In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency. I did &lt;a href=&quot;http://www.gophercon.in/2015/scholarship/&quot; target=&quot;_blank&quot;&gt;got selected as a Student Scholar&lt;/a&gt;. You can view the &lt;a href=&quot;https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project spacing-three width-one&quot;&gt;
+  &lt;a href=&quot;http://www.gophercon.in/&quot; target=&quot;_blank&quot; title=&quot;GOPHERCON INDIA 2015, The First-Ever Go Conference in India @Bengaluru&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/gophercon.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/gophercon@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-website project-google-city clear-left width-three&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss2.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss2@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description project-description-google-city fit-right width-two&quot;&gt;
+  &lt;h3&gt;Google App Engine with Go&lt;/h3&gt;
+  &lt;p&gt;I used an &lt;a href=&quot;http://developer.worldweatheronline.com/api/&quot; target=&quot;_blank&quot;&gt;online weather API available freely for use&lt;/a&gt;, for fetching the data. Go Routines made it possible to fetch the data concurrently and load them asynchroniously on the results page.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo spacing-three width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; retina=&quot;/assets/images/icons/app_engine@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/golang.png&quot; retina=&quot;/assets/images/icons/golang@2x.png&quot;&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 24 Sep 2015 00:00:00 +0530</pubDate>
+        <link>/tellmeweathernow</link>
+        <guid isPermaLink="true">/tellmeweathernow</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Internship at BetaCraft</title>
+        <description>&lt;p&gt;Hello there.&lt;/p&gt;
+
+&lt;p&gt;It has been time, since i have made an attempt to update my blog with
+the ongoing’s of my life. But now would be the right time probably.&lt;/p&gt;
+
+&lt;p&gt;Alot have changed in some months, like i am now a 4th Year Final student
+at Jaypee University of Engineering and Technology(JUET), Guna. That’s
+pretty bad-ass bro.&lt;/p&gt;
+
+&lt;p&gt;And as every engineer need to complete a mandatory training/internship
+at the end of the 3rd Year of B.Tech i also did.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu4zsfqsX81sa1q7i_540.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2015, i attended
+#&lt;a href=&quot;http://www.gophercon.in/&quot;&gt;&lt;strong&gt;GopherConIndia&lt;/strong&gt;&lt;/a&gt; conference, Bangalore where i met
+alot of techies &amp;amp; awesome people. Where there was this one startup, that
+at that time were working on a exciting new technology which involved
+both hardware and software mashup on their new product called ‘Twist’,
+and immediately it was clear to me that i wanted to experience this
+work. &lt;/p&gt;
+
+&lt;p&gt;So i got an internship for 6 weeks at
+&lt;strong&gt;&lt;a href=&quot;http://rainingclouds.com/&quot;&gt;RainingClouds&lt;/a&gt;/&lt;a href=&quot;http://betacraft.co/&quot;&gt;BetaCraft&lt;/a&gt;&lt;/strong&gt;
+Pune from June to July of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu5u1oLqMK1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This picture here people, depicts the whole team of RainingClouds. &lt;/p&gt;
+
+&lt;p&gt;Great people, Great work. Period.&lt;/p&gt;
+
+&lt;h2&gt;My Work&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ressyapp.com/&quot;&gt;Ressy &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ressy is real-time table management solution for restaurant industry.
+It’s a platform for publishing and availing discounts from various
+restaurants in real-time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6je3y2Yh1sa1q7i_540.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I worked on the back-end for the Ressy app, &lt;strong&gt;implemented various
+features for the app back-end on Golang, MongoDB, PostgreSQL&lt;/strong&gt; etc. &lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://www.gettwist.tv/&quot;&gt;Twist &lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gettwist.tv/&quot;&gt;Twist&lt;/a&gt; is a powerful Android™ powered HDMI
+dongle which plugs into your TV. It’s a one stop solution for your
+family’s Gaming and Media entertainment needs. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6jcsIzvL1sa1q7i_540.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I developed various touch drivers like &lt;strong&gt;Multi-Touch driver and mouse
+pointer driver&lt;/strong&gt; for the device during my internship.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6jzc3a2q1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This here, is the screen shot of our first successful Multi touch driver
+test painting with 3 points on the screen. That was a memorable day. &lt;/p&gt;
+
+&lt;h2&gt;Pune&lt;/h2&gt;
+
+&lt;p&gt;Well, I just loved pune. It was so refreshing, people are so nice, young
+people all around. I would argue that pune is probably the best city to
+live in india right now, if you are 20+, love life and need work.&lt;/p&gt;
+
+&lt;p&gt;With so much to offer pune stands out from other biggies of India like
+New Delhi, Bangalore, Mumbai etc. and the food is so versatile that even
+a month in pune you would be eating new stuff each day &amp;amp; the tastes are
+muah.&lt;/p&gt;
+
+&lt;p&gt;Some pictures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6jwhryrR1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6jwyai951sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6jxjZs3S1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6lg83xYp1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6lixMZnX1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Loved Pune Food :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/internship/tumblr_inline_nu6ljkoToI1sa1q7i_540.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Overall i had such a nice time and experience of a lifetime at my
+internship. With so much to learn both on the engineering side and
+lifestyle. BetaCraft is full of awesome people with so much to learn
+from, i was lucky to get such an opportunity to work with such great
+team on a great mission.&lt;/p&gt;
+
+&lt;p&gt;Here is my &lt;a href=&quot;https://drive.google.com/file/d/0B19RfWY3tagHX3hTcmw3VmZSQTQ/view?usp=sharing&quot;&gt;&lt;strong&gt;Training Presentation&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tadaa.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Sep 2015 00:00:00 +0530</pubDate>
+        <link>/internship-at-rainingcloudsbetacraft-2015</link>
+        <guid isPermaLink="true">/internship-at-rainingcloudsbetacraft-2015</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Read: Mini Sun Tzu - The Art of War</title>
+        <description>&lt;p&gt;Got new buff for this week.
+Sun Tzu - The Art of War&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_noain8hiTL1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 May 2015 00:00:00 +0530</pubDate>
+        <link>/got-new-buff-for-this-week-sun-tzu-the-art-of</link>
+        <guid isPermaLink="true">/got-new-buff-for-this-week-sun-tzu-the-art-of</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Read: The Hard things about the hard things</title>
+        <description>&lt;p&gt;Back on reading digest.
+The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_njcdwyIacf1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Feb 2015 00:00:00 +0530</pubDate>
+        <link>/back-on-reading</link>
+        <guid isPermaLink="true">/back-on-reading</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Moments from GopherConIndia 2015</title>
+        <description>&lt;p&gt;Moments from GopherConIndia, Bangalore, Hotel Royal Orchid. 19th-21st February, 2015.&lt;/p&gt;
+
+&lt;p&gt;http://www.gophercon.in/&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o3_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o9_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o8_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o7_500.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o6_500.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o10_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o5_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o4_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o2_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 00:00:00 +0530</pubDate>
+        <link>/moments-from-gopherconindia-2015-bangalore</link>
+        <guid isPermaLink="true">/moments-from-gopherconindia-2015-bangalore</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>ideaPad</title>
+        <description>&lt;div class=&quot;project spacing-one width-one&quot;&gt;
+  &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/google_play.png&quot; retina=&quot;/assets/images/icons/google_play@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-phone clear-left width-one&quot;&gt;
+  &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/ideapad/ss_mobile.png&quot; retina=&quot;/assets/images/projects/ideapad/ss_mobile@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description fit-right width-four&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;ideaPad for Android&lt;/a&gt;&lt;/h3&gt;
+  &lt;p&gt;ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&#39;s, Answer sample questions, draw sketches - that&#39;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas. Hopefully so they won&#39;t get lost in time and i would work on them. You can download the app from &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;Google Play Store&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project spacing-three width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/android.png&quot; retina=&quot;/assets/images/icons/android@2x.png&quot;&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 30 Aug 2014 00:00:00 +0530</pubDate>
+        <link>/ideapad</link>
+        <guid isPermaLink="true">/ideapad</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Connect to Cyberoam WiFi Networks on Windows Phone 8.1</title>
+        <description>&lt;p&gt;Connect to Cyberoam WiFi Networks on Windows Phone 8.1&lt;/p&gt;
+
+&lt;p&gt;Since the dawn of Windows Phone. It has been a sad sad journey for EAP
+WiFi network users to enjoy internet access.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nantg7ie0o1sa1q7i.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For college students to connect to their wonderful college WiFi. So they
+can enjoy the sweat taste of internet information.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Note: This requires Windows Phone 8.1.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;But not anymore.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This tutorial will help connect their windows phones to Cyber-Roam based
+Hidden WiFi Networks which works on &lt;span&gt;EAP-TLS Wireless
+authentication system. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow these simple baby steps:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nanr78aNeH1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;1. Open Settings. Click on WiFi Settings.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nantk9LLGt1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Tap on manage.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nantptmlGR1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;3. Tap on (+) button on the bottom, to add a new WiFi
+network.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nantzsbwOH1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. After writing “JIET” or whatever your college hidden wifi network
+is known as. Click on Add.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_napvi8X2ik1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Tap on “Sign in a different way”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;**&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nanu3ykru81sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Now this is the main settings screen, add settings according to
+your college. for my college, Jaypee University of Engineering and
+Technology, Guna this would work.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;7. After clicking on “Done” button you would be redirected to login
+screen for your college WiFi Network. &lt;em&gt;Tadaaa&lt;/em&gt; you just connected to
+your college’s WiFi network.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nanu8w7Rhy1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;There is a Cyberoam client available on Windows phone market available
+for the ease.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.windowsphone.com/en-in/store/app/cyberoam-login/77096fe6-393b-4a66-bebd-fcf64010f6c8&quot; title=&quot;Cyberoam Login&quot;&gt;Cyberoam
+Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;/assets/images/shares/cyberoam/tumblr_inline_nanuk80wvu1sa1q7i.png&quot; alt=&quot;image&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;That’s how we do it, People. Like a &lt;em&gt;shazamm.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
+        <link>/connect-cyberoam-wifi-networks-on-windows-phone</link>
+        <guid isPermaLink="true">/connect-cyberoam-wifi-networks-on-windows-phone</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Read: Anu Aunty</title>
+        <description>&lt;p&gt;done with anu aunty. nice Bangalore story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_n9o236jsiV1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 00:00:00 +0530</pubDate>
+        <link>/done-with-anu-aunty-nice-bangalore-story</link>
+        <guid isPermaLink="true">/done-with-anu-aunty-nice-bangalore-story</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Moments From Dextra 2K14 - JUET, Guna</title>
+        <description>&lt;p&gt;Moments of Dextra 2K14 - Technical Festival for Jaypee University of Engineering and Technology, Guna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o4_1280.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o2_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o3_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o5_1280.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dextrajuet.org/&quot;&gt;http://www.dextrajuet.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 May 2014 00:00:00 +0530</pubDate>
+        <link>/moments-of-dextra-2k14-technical-festival-for</link>
+        <guid isPermaLink="true">/moments-of-dextra-2k14-technical-festival-for</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
   </channel>
 </rss>
