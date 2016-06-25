@@ -10,8 +10,6 @@ facebook:  https://facebook.com/yashrajsingh.net
 google:    https://google.com/+YashRajSingh
 linkedin:  https://in.linkedin.com/in/yashrajsingh/
 
-source:      _source
-destination: public
 exclude:     [public, Gemfile, Gemfile.lock, Rakefile, README.md]
 
 markdown:  rdiscount
