@@ -5,13 +5,129 @@
     <description>Yash mostly works on the design and engineering of various helpful products.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jul 2016 19:08:49 +0530</pubDate>
-    <lastBuildDate>Fri, 01 Jul 2016 19:08:49 +0530</lastBuildDate>
+    <pubDate>Fri, 01 Jul 2016 21:21:59 +0530</pubDate>
+    <lastBuildDate>Fri, 01 Jul 2016 21:21:59 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Project Yello</title>
         <description>
+
+&lt;div class=&quot;project project-website spacing-two width-three&quot;&gt;
+  &lt;a href=&quot;http://projectyello.appspot.com&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/ss.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/ss@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-phone project-basecamp-mobile spacing-one width-one&quot;&gt;
+  &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.appspot.projectyello&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/ss_mobile.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/ss_mobile@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description project-description-basecamp width-three&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;http://projectyello.appspot.com&quot; target=&quot;_blank&quot;&gt;projectyello.appspot.com&lt;/a&gt;&lt;/h3&gt;
+  &lt;p&gt;I started working on a new build for project yello on Jan, 2016. Starting from the scratch, I wanted to fulfil this idea, to let students share around the campus without the fear. Also the power to raise your voice within the campus. Project Yello had always been about the projects within the campus, but it needed to be more, we added social to it.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo clear-left width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/logo1.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/logo1@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/logo2.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/logo2@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/logo3.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/logo3@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo width-one&quot; style=&quot;margin-top: 60px;&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v2/logo4.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/logo4@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project-description project-description-basecamp-logos spacing-three width-two&quot;&gt;
+  &lt;h3&gt;Logos&lt;/h3&gt;
+  &lt;p&gt;For branding we choose a black flag to symbolize our movement of revolting against the way things are done in college&#39;s.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logoc clear-left spacing-one width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; retina=&quot;/assets/images/icons/app_engine@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo clear-left width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/android.png&quot; retina=&quot;/assets/images/icons/android@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo clear-left width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/python.png&quot; retina=&quot;/assets/images/icons/python@2x.png&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-phone project-basecamp-mobile width-two&quot;&gt;
+  &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.appspot.projectyello&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v2/ss_mobile.png&quot; retina=&quot;/assets/images/projects/projectyello/v2/ss_mobile@2x.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-description fit-right width-two&quot;&gt;
+  &lt;h3&gt;Android Application&lt;/h3&gt;
+  &lt;p&gt;An Android application for users who wish to use the Project Yello on the go. Modern UI, Older Phones Support. It utilises &lt;a href=&quot;https://projectyello.appspot.com/api&quot; target=&quot;_blank&quot;&gt;Project Yello&#39;s API&lt;/a&gt; which are powered by &lt;a href=&quot;https://cloud.google.com/endpoints/&quot; target=&quot;_blank&quot;&gt;Google Endpoints&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-description fit-right width-two&quot;&gt;
+  &lt;h3&gt;Backend&lt;/h3&gt;
+  &lt;p&gt;We needed a concrete backend which can scale, if needed, So we pivoted towards &lt;a href=&quot;https://cloud.google.com/appengine/&quot; target=&quot;_blank&quot;&gt;Google App Engine&lt;/a&gt; which as a PaaS can scale quickly relaying on Google&#39;s server is a good option. The whole backend is written in Python with other App engine services. API&#39;s are powered by &lt;a href=&quot;https://cloud.google.com/endpoints/&quot; target=&quot;_blank&quot;&gt;Google Endpoints&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;
+
+
+&lt;h3 class=&quot;second_heading&quot;&gt;Earlier Desktop Version&lt;/h3&gt;
+
+
+
 
 &lt;div class=&quot;project spacing-one width-four&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/projectyello/v1/cover.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/cover@2x.png&quot;&gt;
