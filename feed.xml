@@ -5,23 +5,107 @@
     <description>Yash mostly works on the design and engineering of various helpful products.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 18:44:17 +0530</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 18:44:17 +0530</lastBuildDate>
+    <pubDate>Sun, 17 Jul 2016 10:51:32 +0530</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2016 10:51:32 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Host your Resume on Google App Engine</title>
+        <description>&lt;p&gt;I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company. The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.&lt;/p&gt;
+
+&lt;p&gt;I&#39;m calling it &lt;a href=&quot;http://gae-resume.appspot.com/&quot;&gt;&lt;strong&gt;GAE-Resume&lt;/strong&gt;&lt;/a&gt;, since it is built on Google App Engine, and Django(using &lt;a href=&quot;https://github.com/potatolondon/djangae&quot;&gt;&lt;strong&gt;Djangae&lt;/strong&gt;&lt;/a&gt;), AngularJS, Bootstrap etc.&lt;/p&gt;
+
+&lt;div class=&quot;project width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/python.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/angular.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project width-one clear-both&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/html.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/yashrajsingh/gae-resume&quot; target=&quot;_blank&quot;&gt;
+    &lt;img style=&quot;right: 0; border: 0; float:right;&quot; class=&quot;fit-right&quot;
+    src=&quot;http://docs.cloudfoundry.org/images/ribbon_forkme.png&quot;
+    alt=&quot;Fork me on GitHub&quot;
+    data-canonical-src=&quot;https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&quot;clear: both; margin-top: 20px;&quot;/&gt;
+Some of the features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Made on Google App Engine with Python, So you can host it with a custom domain.&lt;/li&gt;
+&lt;li&gt;Responsive design.&lt;/li&gt;
+&lt;li&gt;Have a Kudos button, already implemented.&lt;/li&gt;
+&lt;li&gt;AngularJS for flexible UI.&lt;/li&gt;
+&lt;li&gt;Build over django, so you can even blog on it.&lt;/li&gt;
+&lt;li&gt;Comes with a Light weight template, with JQuery.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Screenshots&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&quot;project project-phone clear-left width-one&quot;&gt;
+    &lt;a href=&quot;http://gae-resume.appspot.com/&quot; target=&quot;_blank&quot;&gt;
+        &lt;img src=&quot;/assets/images/shares/gae-resume/mobile.png&quot;&gt;
+    &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&quot;project project-website project-svn fit-right width-five&quot;&gt;
+    &lt;a href=&quot;http://gae-resume.appspot.com/&quot; target=&quot;_blank&quot;&gt;
+        &lt;img src=&quot;/assets/images/shares/gae-resume/desktop.png&quot;&gt;
+    &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;So, you can either:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/yashrajsingh/gae-resume&quot;&gt;&lt;strong&gt;View on Github&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gae-resume.appspot.com/&quot;&gt;&lt;strong&gt;Demo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;La-di-da-du-duh.
+Thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&quot;clear: both; margin-top: 20px;&quot;/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Jul 2016 00:00:00 +0530</pubDate>
+        <link>/host-your-resume-on-google-app-engine.html</link>
+        <guid isPermaLink="true">/host-your-resume-on-google-app-engine.html</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
     
       <item>
         <title>Project Yello</title>
         <description>
 
 &lt;div class=&quot;project spacing-one width-four&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/cover.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/cover@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/cover.png&quot;&gt;
 &lt;/div&gt;
 
 
 
 
 &lt;div class=&quot;project project-logo project-logo-help clear-left width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo1.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo1@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo1.png&quot;&gt;
 &lt;/div&gt;
 
 
@@ -36,14 +120,14 @@
 
 
 &lt;div class=&quot;project project-logo project-logo-hive clear-left spacing-one width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo2.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo2@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo2.png&quot;&gt;
 &lt;/div&gt;
 
 
 
 
 &lt;div class=&quot;project project-logo project-logo-dash clear-left spacing-two width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo3.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/logo3@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo3.png&quot;&gt;
 &lt;/div&gt;
 
 
@@ -58,7 +142,7 @@
 
 
 &lt;div class=&quot;project project-poster clear-left width-two&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster1.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster1@2x.png&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster1.png&quot;&gt;
 &lt;/div&gt;
 
 
@@ -73,14 +157,14 @@
 
 
 &lt;div class=&quot;project project-poster width-three&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster2.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster2@2x.png&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster2.png&quot;&gt;
 &lt;/div&gt;
 
 
 
 
 &lt;div class=&quot;project project-poster project-poster-flosstradamus clear-left spacing-one width-two&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster3.png&quot; retina=&quot;/assets/images/projects/projectyello/v1/poster3@2x.png&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster3.png&quot;&gt;
 &lt;/div&gt;
 
 </description>
@@ -97,7 +181,7 @@
         <title>TellMeWeatherNow!</title>
         <description>&lt;div class=&quot;project project-phone clear-left spacing-one width-one&quot;&gt;
   &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss_mobile.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss_mobile@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss_mobile.png&quot;&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -106,7 +190,7 @@
 
 &lt;div class=&quot;project project-website fit-right width-three&quot;&gt;
   &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss.png&quot;&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -123,7 +207,7 @@
 
 &lt;div class=&quot;project spacing-three width-one&quot;&gt;
   &lt;a href=&quot;http://www.gophercon.in/&quot; target=&quot;_blank&quot; title=&quot;GOPHERCON INDIA 2015, The First-Ever Go Conference in India @Bengaluru&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/gophercon.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/gophercon@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/tellmeweathernow/gophercon.png&quot;&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -131,7 +215,7 @@
 
 
 &lt;div class=&quot;project project-website project-google-city clear-left width-three&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss2.png&quot; retina=&quot;/assets/images/projects/tellmeweathernow/ss2@2x.png&quot;&gt;
+  &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss2.png&quot;&gt;
 &lt;/div&gt;
 
 
@@ -146,14 +230,14 @@
 
 
 &lt;div class=&quot;project project-logo spacing-three width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; retina=&quot;/assets/images/icons/app_engine@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
 
 
 
 &lt;div class=&quot;project project-logo width-one&quot;&gt;
-  &lt;img src=&quot;/assets/images/icons/golang.png&quot; retina=&quot;/assets/images/icons/golang@2x.png&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/golang.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
 </description>
@@ -339,7 +423,7 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
         <title>ideaPad</title>
         <description>&lt;div class=&quot;project spacing-one width-one&quot;&gt;
   &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/icons/google_play.png&quot; retina=&quot;/assets/images/icons/google_play@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/google_play.png&quot; class=&quot;icon&quot;&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -348,7 +432,7 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 
 &lt;div class=&quot;project project-phone clear-left width-one&quot;&gt;
   &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/ideapad/ss_mobile.png&quot; retina=&quot;/assets/images/projects/ideapad/ss_mobile@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/ideapad/ss_mobile.png&quot;&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -365,7 +449,7 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 
 
 &lt;div class=&quot;project spacing-three width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/icons/android.png&quot; retina=&quot;/assets/images/icons/android@2x.png&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/android.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
 </description>
@@ -476,27 +560,6 @@ Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
         <pubDate>Sat, 02 Aug 2014 00:00:00 +0530</pubDate>
         <link>/done-with-anu-aunty-nice-bangalore-story.html</link>
         <guid isPermaLink="true">/done-with-anu-aunty-nice-bangalore-story.html</guid>
-        
-        
-        <category>shares</category>
-        
-      </item>
-    
-      <item>
-        <title>Moments From Dextra 2K14 - JUET, Guna</title>
-        <description>&lt;p&gt;Moments of Dextra 2K14 - Technical Festival for Jaypee University of Engineering and Technology, Guna.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o4_1280.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o2_1280.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o3_1280.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o5_1280.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/images/shares/dextra/tumblr_n55648PnCD1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.dextrajuet.org/&quot;&gt;http://www.dextrajuet.org/&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 May 2014 00:00:00 +0530</pubDate>
-        <link>/moments-of-dextra-2k14-technical-festival-for.html</link>
-        <guid isPermaLink="true">/moments-of-dextra-2k14-technical-festival-for.html</guid>
         
         
         <category>shares</category>
