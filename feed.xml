@@ -5,9 +5,49 @@
     <description>Yash mostly works on the design and engineering of various helpful products.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Jul 2016 10:51:32 +0530</pubDate>
-    <lastBuildDate>Sun, 17 Jul 2016 10:51:32 +0530</lastBuildDate>
+    <pubDate>Sun, 21 Aug 2016 15:39:56 +0530</pubDate>
+    <lastBuildDate>Sun, 21 Aug 2016 15:39:56 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>UK Weather Analyzer</title>
+        <description>&lt;div class=&quot;project project-website spacing-one width-two&quot;&gt;
+  &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/ukweatheranalyzer/ss.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo-tech width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/chartjs.svg&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo-tech width-one&quot;&gt;
+  &lt;img src=&quot;/assets/images/icons/python.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-description clear-right width-two&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;UK Weather Analyzer&lt;/a&gt;&lt;/h3&gt;
+  &lt;p&gt;In August, 2016, I made a weather data(from 1910 onwards) visualization web-application for the UK regions(London, UK, Wales, Scotland) using GAE, Angularjs, django, Chart.js. You can view the visualization &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and you can fork the &lt;a href=&quot;https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 14 Aug 2016 00:00:00 +0530</pubDate>
+        <link>/uk-weather-analyzer.html</link>
+        <guid isPermaLink="true">/uk-weather-analyzer.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Host your Resume on Google App Engine</title>
@@ -96,13 +136,6 @@ Thanks.&lt;/p&gt;
       <item>
         <title>Project Yello</title>
         <description>
-
-&lt;div class=&quot;project spacing-one width-four&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/cover.png&quot;&gt;
-&lt;/div&gt;
-
-
-
 
 &lt;div class=&quot;project project-logo project-logo-help clear-left width-one&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo1.png&quot;&gt;
@@ -205,7 +238,7 @@ Thanks.&lt;/p&gt;
 
 
 
-&lt;div class=&quot;project spacing-three width-one&quot;&gt;
+&lt;div class=&quot;project project-logo-tech spacing-three width-one&quot;&gt;
   &lt;a href=&quot;http://www.gophercon.in/&quot; target=&quot;_blank&quot; title=&quot;GOPHERCON INDIA 2015, The First-Ever Go Conference in India @Bengaluru&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/tellmeweathernow/gophercon.png&quot;&gt;
   &lt;/a&gt;
@@ -229,14 +262,14 @@ Thanks.&lt;/p&gt;
 
 
 
-&lt;div class=&quot;project project-logo spacing-three width-one&quot;&gt;
+&lt;div class=&quot;project project-logo-tech spacing-three width-one&quot;&gt;
     &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&quot;project project-logo width-one&quot;&gt;
+&lt;div class=&quot;project project-logo-tech width-one&quot;&gt;
   &lt;img src=&quot;/assets/images/icons/golang.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
@@ -448,7 +481,7 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 
 
 
-&lt;div class=&quot;project spacing-three width-one&quot;&gt;
+&lt;div class=&quot;project project-logo-tech spacing-three width-one&quot;&gt;
     &lt;img src=&quot;/assets/images/icons/android.png&quot; class=&quot;icon&quot;&gt;
 &lt;/div&gt;
 
@@ -545,21 +578,6 @@ Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
         <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
         <link>/connect-cyberoam-wifi-networks-on-windows-phone.html</link>
         <guid isPermaLink="true">/connect-cyberoam-wifi-networks-on-windows-phone.html</guid>
-        
-        
-        <category>shares</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Read: Anu Aunty</title>
-        <description>&lt;p&gt;done with anu aunty. nice Bangalore story.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_n9o236jsiV1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Aug 2014 00:00:00 +0530</pubDate>
-        <link>/done-with-anu-aunty-nice-bangalore-story.html</link>
-        <guid isPermaLink="true">/done-with-anu-aunty-nice-bangalore-story.html</guid>
         
         
         <category>shares</category>
