@@ -5,13 +5,68 @@
     <description>Yash mostly works on the design and engineering of various helpful products.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Aug 2016 15:52:39 +0530</pubDate>
-    <lastBuildDate>Sun, 21 Aug 2016 15:52:39 +0530</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2016 23:21:28 +0530</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2016 23:21:28 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>UK Weather Analyzer</title>
-        <description>&lt;div class=&quot;project project-website spacing-one width-two&quot;&gt;
+        <description>&lt;div class=&quot;project project-phone width-one&quot;&gt;
+  &lt;a href=&quot;https://10k-uk-weather.azurewebsites.net/&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/ukweatheranalyzer/10k_ss_mobile.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-description width-four&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;10K UK Weather Analyzer &amp; Visualization&lt;/a&gt;&lt;/h3&gt;
+  &lt;p&gt;In October 2016, I participated &amp; &lt;a href=&quot;https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest/&quot; target=&quot;_blank&quot;&gt;won ‘Best Technical Award’&lt;/a&gt; in the prestigious &lt;a href=&quot;https://a-k-apart.com/&quot; target=&quot;_blank&quot;&gt;10K Apart Challenge&lt;/a&gt; of 2016. 10K Apart International Challenge by &lt;a href=&quot;http://microsoft.com/&quot; target=&quot;_blank&quot;&gt;Microsoft&lt;/a&gt; &amp; &lt;a href=&quot;https://aneventapart.com/&quot; target=&quot;_blank&quot;&gt;An Event Apart&lt;/a&gt; is about building a compelling web experience that can be delivered in 10kB and works without JavaScript. About 380 entries took part from around the globe, judged by some of the best developers, designers of the industry.&lt;/p&gt;
+  &lt;p&gt;
+  I made a lite version of &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;UK Weather Analyzer&lt;/a&gt;, using NodeJS, Azure. With this application users can analyze, visualize UK &amp; Other regions weather data, while playing a short game and learn some new facts as well. The initial download is around ~8KB and doesn&#39;t require JavaScript. Build with Progressive Enhancement in mind, so added enhancements with JavaScript and CSS. Accessibility and browser support(even lynx) enabled. You can also fork the &lt;a href=&quot;https://github.com/yashrajsingh/10k-uk-weather&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo-tech width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/nodejs.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-logo-tech width-one&quot;&gt;
+    &lt;img src=&quot;/assets/images/icons/azure.png&quot; class=&quot;icon&quot;&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-website width-three&quot;&gt;
+  &lt;a href=&quot;https://10k-uk-weather.azurewebsites.net/&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/assets/images/projects/ukweatheranalyzer/10k_ss.png&quot;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project width-one center&quot;&gt;
+    &lt;a href=&quot;https://a-k-apart.com/#winners&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;/assets/images/icons/trophy.png&quot; class=&quot;icon&quot;&gt;
+      &lt;img src=&quot;/assets/images/projects/ukweatheranalyzer/10k_apart.png&quot;&gt;
+      &lt;small class=&quot;portfolio-copyright&quot;&gt;
+        Won &quot;Best Technical&quot; Prize in 10K Apart Challenge 2016 By Microsoft &amp; An Event Apart.
+      &lt;/small&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project project-website clear-left spacing-one width-two&quot;&gt;
   &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/ukweatheranalyzer/ss.png&quot;&gt;
   &lt;/a&gt;
@@ -36,7 +91,7 @@
 
 &lt;div class=&quot;project project-description clear-right width-two&quot;&gt;
   &lt;h3&gt;&lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;UK Weather Analyzer&lt;/a&gt;&lt;/h3&gt;
-  &lt;p&gt;In August, 2016, I made a weather data(from 1910 onwards) visualization web-application for the UK regions(London, UK, Wales, Scotland) using GAE, Angularjs, django, Chart.js. You can view the visualization &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and you can fork the &lt;a href=&quot;https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
+  &lt;p&gt;In August, 2016, I made a weather data(from 1910 onwards) visualization web-application for the UK regions(London, UK, Wales, Scotland) using GAE, AngularJS, django, Chart.js. You can view the visualization &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and you can fork the &lt;a href=&quot;https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 
 </description>
@@ -134,85 +189,8 @@ Thanks.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Project Yello</title>
-        <description>
-
-&lt;div class=&quot;project project-logo project-logo-help clear-left width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo1.png&quot;&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project-description fit-right width-four&quot;&gt;
-  &lt;h3&gt;Project Yello&lt;/h3&gt;
-  &lt;p&gt;In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &#39;what student learned&#39; and &#39;what student is taught&#39;. The things we were taught in college, were of no use most of the times, because students didn&#39;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge.You can take a look at the &lt;a href=&quot;https://github.com/yashrajsingh/ProjectYello-Desktop&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project project-logo project-logo-hive clear-left spacing-one width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo2.png&quot;&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project project-logo project-logo-dash clear-left spacing-two width-one&quot;&gt;
-    &lt;img src=&quot;/assets/images/projects/projectyello/v1/logo3.png&quot;&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project-description project-description-basecamp-logos spacing-three width-two&quot;&gt;
-  &lt;h3&gt;Logos&lt;/h3&gt;
-  &lt;p&gt;For branding and identity work, we worked on an logo which would feel familiar to the students.&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project project-poster clear-left width-two&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster1.png&quot;&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project-description fit-right width-two&quot;&gt;
-  &lt;h3&gt;Posters&lt;/h3&gt;
-  &lt;p&gt;To promote the project yello within the campus, we published some custom made posters for students on the &lt;a href=&quot;https://www.facebook.com/ProjectYello&quot; target=&quot;_blank&quot;&gt;facebook page&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project project-poster width-three&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster2.png&quot;&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;project project-poster project-poster-flosstradamus clear-left spacing-one width-two&quot;&gt;
-  &lt;img src=&quot;/assets/images/projects/projectyello/v1/poster3.png&quot;&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 +0530</pubDate>
-        <link>/project-yello.html</link>
-        <guid isPermaLink="true">/project-yello.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
         <title>TellMeWeatherNow!</title>
-        <description>&lt;div class=&quot;project project-phone clear-left spacing-one width-one&quot;&gt;
+        <description>&lt;div class=&quot;project project-phone clear-left width-one&quot;&gt;
   &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss_mobile.png&quot;&gt;
   &lt;/a&gt;
@@ -225,6 +203,18 @@ Thanks.&lt;/p&gt;
   &lt;a href=&quot;http://tellmeweathernow.appspot.com/&quot; target=&quot;_blank&quot;&gt;
     &lt;img src=&quot;/assets/images/projects/tellmeweathernow/ss.png&quot;&gt;
   &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;project width-one center&quot;&gt;
+    &lt;a href=&quot;http://www.gophercon.in/2015/scholarship/&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;/assets/images/icons/trophy.png&quot; class=&quot;icon&quot;&gt;
+      &lt;small class=&quot;portfolio-copyright&quot;&gt;
+        Won scholarship for GopherConIndia 2015.
+      &lt;/small&gt;
+    &lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -578,6 +568,21 @@ Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
         <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
         <link>/connect-cyberoam-wifi-networks-on-windows-phone.html</link>
         <guid isPermaLink="true">/connect-cyberoam-wifi-networks-on-windows-phone.html</guid>
+        
+        
+        <category>shares</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Read: Anu Aunty</title>
+        <description>&lt;p&gt;done with anu aunty. nice Bangalore story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_n9o236jsiV1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 00:00:00 +0530</pubDate>
+        <link>/done-with-anu-aunty-nice-bangalore-story.html</link>
+        <guid isPermaLink="true">/done-with-anu-aunty-nice-bangalore-story.html</guid>
         
         
         <category>shares</category>
