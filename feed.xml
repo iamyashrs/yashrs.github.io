@@ -3,11 +3,11 @@
   <channel>
     <title>Yash Raj Singh</title>
     <description>Yash mostly works on the design and engineering of various helpful products.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Nov 2016 19:04:18 +0530</pubDate>
-    <lastBuildDate>Sat, 19 Nov 2016 19:04:18 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Mar 2017 13:21:26 +0530</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 13:21:26 +0530</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
     
       <item>
         <title>UK Weather Analyzer</title>
@@ -24,7 +24,7 @@
   &lt;h3&gt;&lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;10K UK Weather Analyzer &amp; Visualization&lt;/a&gt;&lt;/h3&gt;
   &lt;p&gt;In October 2016, I participated &amp; &lt;a href=&quot;https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest/&quot; target=&quot;_blank&quot;&gt;won ‘Best Technical Award’&lt;/a&gt; in the prestigious &lt;a href=&quot;https://a-k-apart.com/&quot; target=&quot;_blank&quot;&gt;10K Apart Challenge&lt;/a&gt; of 2016. 10K Apart International Challenge by &lt;a href=&quot;http://microsoft.com/&quot; target=&quot;_blank&quot;&gt;Microsoft&lt;/a&gt; &amp; &lt;a href=&quot;https://aneventapart.com/&quot; target=&quot;_blank&quot;&gt;An Event Apart&lt;/a&gt; is about building a compelling web experience that can be delivered in 10kB and works without JavaScript. About 380 entries took part from around the globe, judged by some of the best developers, designers of the industry.&lt;/p&gt;
   &lt;p&gt;
-  I made a lite version of &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;UK Weather Analyzer&lt;/a&gt;, using NodeJS, Azure. With this application users can analyze, visualize UK &amp; Other regions weather data, while playing a short game and learn some new facts as well. The initial download is around ~8KB and doesn&#39;t require JavaScript. Build with Progressive Enhancement in mind, so added enhancements with JavaScript and CSS. Accessibility and browser support(even lynx) enabled. You can also fork the &lt;a href=&quot;https://github.com/yashrajsingh/10k-uk-weather&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;&lt;/p&gt;
+  I made a lite version of &lt;a href=&quot;https://uk-weather-analyzer.appspot.com/&quot; target=&quot;_blank&quot;&gt;UK Weather Analyzer&lt;/a&gt;, using NodeJS, Azure. With this application users can analyze, visualize UK &amp; Other regions weather data, while playing a short game and learn some new facts as well. The initial download is around ~8KB and doesn't require JavaScript. Build with Progressive Enhancement in mind, so added enhancements with JavaScript and CSS. Accessibility and browser support(even lynx) enabled. You can also fork the &lt;a href=&quot;https://github.com/yashrajsingh/10k-uk-weather&quot; target=&quot;_blank&quot;&gt;code on GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 
@@ -96,8 +96,8 @@
 
 </description>
         <pubDate>Sun, 14 Aug 2016 00:00:00 +0530</pubDate>
-        <link>/uk-weather-analyzer.html</link>
-        <guid isPermaLink="true">/uk-weather-analyzer.html</guid>
+        <link>http://localhost:4000/uk-weather-analyzer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/uk-weather-analyzer.html</guid>
         
         
         <category>projects</category>
@@ -108,7 +108,7 @@
         <title>Host your Resume on Google App Engine</title>
         <description>&lt;p&gt;I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company. The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.&lt;/p&gt;
 
-&lt;p&gt;I&#39;m calling it &lt;a href=&quot;http://gae-resume.appspot.com/&quot;&gt;&lt;strong&gt;GAE-Resume&lt;/strong&gt;&lt;/a&gt;, since it is built on Google App Engine, and Django(using &lt;a href=&quot;https://github.com/potatolondon/djangae&quot;&gt;&lt;strong&gt;Djangae&lt;/strong&gt;&lt;/a&gt;), AngularJS, Bootstrap etc.&lt;/p&gt;
+&lt;p&gt;I'm calling it &lt;a href=&quot;http://gae-resume.appspot.com/&quot;&gt;&lt;strong&gt;GAE-Resume&lt;/strong&gt;&lt;/a&gt;, since it is built on Google App Engine, and Django(using &lt;a href=&quot;https://github.com/potatolondon/djangae&quot;&gt;&lt;strong&gt;Djangae&lt;/strong&gt;&lt;/a&gt;), AngularJS, Bootstrap etc.&lt;/p&gt;
 
 &lt;div class=&quot;project width-one&quot;&gt;
   &lt;img src=&quot;/assets/images/icons/app_engine.png&quot; class=&quot;icon&quot;&gt;
@@ -180,8 +180,8 @@ Thanks.&lt;/p&gt;
 &lt;p&gt;&lt;div style=&quot;clear: both; margin-top: 20px;&quot;/&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Jul 2016 00:00:00 +0530</pubDate>
-        <link>/host-your-resume-on-google-app-engine.html</link>
-        <guid isPermaLink="true">/host-your-resume-on-google-app-engine.html</guid>
+        <link>http://localhost:4000/host-your-resume-on-google-app-engine.html</link>
+        <guid isPermaLink="true">http://localhost:4000/host-your-resume-on-google-app-engine.html</guid>
         
         
         <category>shares</category>
@@ -265,8 +265,8 @@ Thanks.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 24 Sep 2015 00:00:00 +0530</pubDate>
-        <link>/tellmeweathernow.html</link>
-        <guid isPermaLink="true">/tellmeweathernow.html</guid>
+        <link>http://localhost:4000/tellmeweathernow.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tellmeweathernow.html</guid>
         
         
         <category>projects</category>
@@ -376,8 +376,8 @@ team on a great mission.&lt;/p&gt;
 &lt;p&gt;Tadaa.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Sep 2015 00:00:00 +0530</pubDate>
-        <link>/internship-at-rainingcloudsbetacraft-2015.html</link>
-        <guid isPermaLink="true">/internship-at-rainingcloudsbetacraft-2015.html</guid>
+        <link>http://localhost:4000/internship-at-rainingcloudsbetacraft-2015.html</link>
+        <guid isPermaLink="true">http://localhost:4000/internship-at-rainingcloudsbetacraft-2015.html</guid>
         
         
         <category>shares</category>
@@ -392,8 +392,8 @@ Sun Tzu - The Art of War&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_noain8hiTL1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 May 2015 00:00:00 +0530</pubDate>
-        <link>/got-new-buff-for-this-week-sun-tzu-the-art-of.html</link>
-        <guid isPermaLink="true">/got-new-buff-for-this-week-sun-tzu-the-art-of.html</guid>
+        <link>http://localhost:4000/got-new-buff-for-this-week-sun-tzu-the-art-of.html</link>
+        <guid isPermaLink="true">http://localhost:4000/got-new-buff-for-this-week-sun-tzu-the-art-of.html</guid>
         
         
         <category>shares</category>
@@ -408,8 +408,8 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_njcdwyIacf1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Feb 2015 00:00:00 +0530</pubDate>
-        <link>/back-on-reading.html</link>
-        <guid isPermaLink="true">/back-on-reading.html</guid>
+        <link>http://localhost:4000/back-on-reading.html</link>
+        <guid isPermaLink="true">http://localhost:4000/back-on-reading.html</guid>
         
         
         <category>shares</category>
@@ -434,8 +434,8 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 &lt;img src=&quot;/assets/images/shares/gopherconindia/tumblr_nkfjg7OyRZ1ttna56o2_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Feb 2015 00:00:00 +0530</pubDate>
-        <link>/moments-from-gopherconindia-2015-bangalore.html</link>
-        <guid isPermaLink="true">/moments-from-gopherconindia-2015-bangalore.html</guid>
+        <link>http://localhost:4000/moments-from-gopherconindia-2015-bangalore.html</link>
+        <guid isPermaLink="true">http://localhost:4000/moments-from-gopherconindia-2015-bangalore.html</guid>
         
         
         <category>shares</category>
@@ -464,7 +464,7 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 
 &lt;div class=&quot;project-description fit-right width-four&quot;&gt;
   &lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;ideaPad for Android&lt;/a&gt;&lt;/h3&gt;
-  &lt;p&gt;ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&#39;s, Answer sample questions, draw sketches - that&#39;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas. Hopefully so they won&#39;t get lost in time and i would work on them. You can download the app from &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;Google Play Store&lt;/a&gt;.
+  &lt;p&gt;ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do's, Answer sample questions, draw sketches - that's the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas. Hopefully so they won't get lost in time and i would work on them. You can download the app from &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ideapad&quot; target=&quot;_blank&quot;&gt;Google Play Store&lt;/a&gt;.
   &lt;/p&gt;
 &lt;/div&gt;
 
@@ -477,8 +477,8 @@ The Hard things about the hard things - Ben Horowitz&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 30 Aug 2014 00:00:00 +0530</pubDate>
-        <link>/ideapad.html</link>
-        <guid isPermaLink="true">/ideapad.html</guid>
+        <link>http://localhost:4000/ideapad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ideapad.html</guid>
         
         
         <category>projects</category>
@@ -566,8 +566,8 @@ Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;That’s how we do it, People. Like a &lt;em&gt;shazamm.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
-        <link>/connect-cyberoam-wifi-networks-on-windows-phone.html</link>
-        <guid isPermaLink="true">/connect-cyberoam-wifi-networks-on-windows-phone.html</guid>
+        <link>http://localhost:4000/connect-cyberoam-wifi-networks-on-windows-phone.html</link>
+        <guid isPermaLink="true">http://localhost:4000/connect-cyberoam-wifi-networks-on-windows-phone.html</guid>
         
         
         <category>shares</category>
@@ -581,8 +581,8 @@ Login&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/shares/books/tumblr_n9o236jsiV1ttna56o1_1280.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Aug 2014 00:00:00 +0530</pubDate>
-        <link>/done-with-anu-aunty-nice-bangalore-story.html</link>
-        <guid isPermaLink="true">/done-with-anu-aunty-nice-bangalore-story.html</guid>
+        <link>http://localhost:4000/done-with-anu-aunty-nice-bangalore-story.html</link>
+        <guid isPermaLink="true">http://localhost:4000/done-with-anu-aunty-nice-bangalore-story.html</guid>
         
         
         <category>shares</category>
