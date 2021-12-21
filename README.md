@@ -1,6 +1,8 @@
 yashrajsingh.net
 ======================
 
+[![github pages](https://github.com/yashrajsingh/yashrajsingh.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/yashrajsingh/yashrajsingh.github.io/actions/workflows/gh-pages.yml)
+
 Hugo powered yashrajsingh.net. 
 Website generated in public folder.
 
