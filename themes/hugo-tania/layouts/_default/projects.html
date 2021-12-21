@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<header>
+  <div class="container">
+      <h1>{{ .Title }}</h1>
+      <p class="subtitle">{{ .Params.subtitle }}</p>
+  </div>
+</header>
+
+{{ with .Content }}
+<div class="container">
+    <section class="my">
+        <div class="content">
+            {{ . }}
+        </div>
+    </section>
+</div>
+{{ end }}
+
+{{ $projects := where .Site.Pages "Type" "eq" "project" }}
+
+<div class="container">
+  {{ if gt (len $projects) 0}}
+  <section>
+      <div class="projects">
+          {{ range $projects.ByWeight }}
+          <div class="project">
+              <div>
+                  <a href="{{ .Params.link }}" target="_blank" rel="noreferrer">
+                      <div class="icon">
+                          <img class="project-icon" src="{{ .Params.icon }}"/>
+                      </div>
+                      <h3>{{ .Title }}</h3>
+                  </a>
+                  <div class="description">{{ .Params.description }}</div>
+              </div>
+              <div class="flex">
+                  <a href="{{ .Params.repo }}" class="button" target="_blank" rel="noreferrer">Source</a>
+              </div>
+          </div>
+          {{ end }}
+      </div>
+  </section>
+  {{ end }}
+</div>
+
+{{ end }}

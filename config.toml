@@ -1,0 +1,116 @@
+baseURL = 'https://yashrajsingh.net/'
+languageCode = 'en-us'
+shortTitle = 'Yash'
+title = 'Yash Raj Singh'
+description = 'A developer, designer from India. Here is some of my work.'
+theme = "hugo-tania"
+
+paginate = "10" # Number of posts per page
+googleAnalytics = "UA-48538474-1"
+canonifyURLs = true
+copyright = "Yash Raj Singh"
+enableRobotsTXT = true
+
+# Disabled Disqus as they are data mining. No comment at this point.
+# disqusShortname = "yashrajsingh"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[Author]
+    name = "Yash Raj Singh"
+    bio = ""
+    avatar = "images/logo.png"
+
+[Params]
+  # Emoji will show before the blog title on site navbar.
+  # titleEmoji  = "😎"
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo = "images/logo.png"
+
+  titleDescription = ""
+
+  mainSections = [
+    'post', 
+    'project',
+  ]
+
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes = true
+
+  siteName = "Yash Raj Singh"
+  siteDesc = ""
+  author = "Yash Raj Singh"
+  RSSLink = "/index.xml"
+  github = "yashrajsingh" 
+  twitter = "iamyashrajsingh" 
+  email = "mail.yashrajsingh@gmail.com"
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow = 10
+
+  # Show your social information with icon on index bio with `_index.md` content.
+  [Params.socialOptions]
+    dev-to = ""
+    email = "mail.yashrajsingh@gmail.com"
+    facebook = ""
+    github = "https://github.com/yashrajsingh"
+    instagram = ""
+    linkedin = "https://www.linkedin.com/in/yashrajsingh"
+    medium = ""
+    stack-overflow = ""
+    steam = ""
+    telegram = ""
+    twitter = "https://twitter.com/iamyashrajsingh"
+    twitch = ""
+    whatsapp = ""
+  
+  # Comments settigns
+  # [Params.comments]
+  #   enabled = true
+  #   provider = "disqus"
+
+[menu]
+[[menu.header]]
+  name = "Archive"
+  url = "/pages/archive/"
+[[menu.header]]
+  name = "About"
+  url = "/pages/about/"
+[[menu.header]]
+  name = "Projects"
+  url = "/pages/projects/"
+[[menu.footer]]
+  name = "RSS"
+  url = "/index.xml"
+
+[related]
+  threshold = 0 
+  includeNewer = true
+  toLower = false
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[markup]
+[markup.highlight]
+  noClasses = false
+  lineNos = true
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
