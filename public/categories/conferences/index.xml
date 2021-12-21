@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferences on Yash Raj Singh</title>
+    <link>https://yashrajsingh.net/categories/conferences/</link>
+    <description>Recent content in conferences on Yash Raj Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Yash Raj Singh</copyright>
+    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrajsingh.net/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moments from GopherConIndia 2015</title>
+      <link>https://yashrajsingh.net/2015/02/moments-from-gopherconindia-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yashrajsingh.net/2015/02/moments-from-gopherconindia-2015/</guid>
+      <description>Moments from GopherConIndia, Bangalore, Hotel Royal Orchid.
+19th-21st February, 2015.
+GopherCon India</description>
+    </item>
+    
+    <item>
+      <title>Moments From Dextra 2K14 - JUET, Guna</title>
+      <link>https://yashrajsingh.net/2014/05/moments-from-dextra-2k14-juet-guna/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yashrajsingh.net/2014/05/moments-from-dextra-2k14-juet-guna/</guid>
+      <description>Dextra JUET
+Moments of Dextra 2K14.
+Technical Festival for Jaypee University of Engineering and Technology, Guna.</description>
+    </item>
+    
+  </channel>
+</rss>

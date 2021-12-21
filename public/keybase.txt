@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/yashrajsingh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yashrajsingh.net
+  * I am yashrajsingh (https://keybase.io/yashrajsingh) on keybase.
+  * I have a public key ASC6PHSK4spD0UzBP5dL9FCEHj1-P8hFh7CiOmb-trDVUwo
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0120ba3c748ae2ca43d14cc13f974bf450841e3d7e3fc84587b0a23a66feb6b0d5530a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;0120ba3c748ae2ca43d14cc13f974bf450841e3d7e3fc84587b0a23a66feb6b0d5530a&quot;,
+            &quot;uid&quot;: &quot;f61483b19407e892c96c255de2426c19&quot;,
+            &quot;username&quot;: &quot;yashrajsingh&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500364344,
+            &quot;hash&quot;: &quot;c01c0c41ccc1234a322b9df07d5b8c6c6273b69e6cf84852cce3aa2e76fdf81f04fe580ff527a12286522c332f8f891d129a6a83eee1ce4aa96ee3eb7426ce5b&quot;,
+            &quot;hash_meta&quot;: &quot;45014e52ed87fc7d8ae7d3584dd83016daa58bff268452a27e69fef9cdfda2e5&quot;,
+            &quot;seqno&quot;: 1255746
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;yashrajsingh.net&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.25&quot;
+    },
+    &quot;ctime&quot;: 1500364355,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;bc3ec29cdaa3172e2085e93f181760c1ed4112be74fadc7ee0f68cb830235a51&quot;,
+    &quot;seqno&quot;: 18,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgujx0iuLKQ9FMwT+XS/RQhB49fj/IRYewojpm/raw1VMKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmEzYzc0OGFlMmNhNDNkMTRjYzEzZjk3NGJmNDUwODQxZTNkN2UzZmM4NDU4N2IwYTIzYTY2ZmViNmIwZDU1MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmEzYzc0OGFlMmNhNDNkMTRjYzEzZjk3NGJmNDUwODQxZTNkN2UzZmM4NDU4N2IwYTIzYTY2ZmViNmIwZDU1MzBhIiwidWlkIjoiZjYxNDgzYjE5NDA3ZTg5MmM5NmMyNTVkZTI0MjZjMTkiLCJ1c2VybmFtZSI6Inlhc2hyYWpzaW5naCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwMDM2NDM0NCwiaGFzaCI6ImMwMWMwYzQxY2NjMTIzNGEzMjJiOWRmMDdkNWI4YzZjNjI3M2I2OWU2Y2Y4NDg1MmNjZTNhYTJlNzZmZGY4MWYwNGZlNTgwZmY1MjdhMTIyODY1MjJjMzMyZjhmODkxZDEyOWE2YTgzZWVlMWNlNGFhOTZlZTNlYjc0MjZjZTViIiwiaGFzaF9tZXRhIjoiNDUwMTRlNTJlZDg3ZmM3ZDhhZTdkMzU4NGRkODMwMTZkYWE1OGJmZjI2ODQ1MmEyN2U2OWZlZjljZGZkYTJlNSIsInNlcW5vIjoxMjU1NzQ2fSwic2VydmljZSI6eyJob3N0bmFtZSI6Inlhc2hyYWpzaW5naC5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI1In0sImN0aW1lIjoxNTAwMzY0MzU1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImJjM2VjMjljZGFhMzE3MmUyMDg1ZTkzZjE4MTc2MGMxZWQ0MTEyYmU3NGZhZGM3ZWUwZjY4Y2I4MzAyMzVhNTEiLCJzZXFubyI6MTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA1Cmr2+hDWJz+EHDNqSOoQbAEYL3o8Cpj9WVmpyzRNR8cD5WW5o/coo7TWGmOt92B+3nTUh2DLLABKgzZYmiMBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDMEaTAkakmoUWztXHn6nKZRNIrKvWHHHfEjl1J+OLNSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yashrajsingh
+
+==================================================================
