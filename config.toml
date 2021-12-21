@@ -5,7 +5,8 @@ title = 'Yash Raj Singh'
 description = 'A developer, designer from India. Here is some of my work.'
 theme = "hugo-tania"
 
-paginate = "10" # Number of posts per page
+# Number of posts per page
+paginate = "10" 
 googleAnalytics = "UA-48538474-1"
 canonifyURLs = true
 copyright = "Yash Raj Singh"
