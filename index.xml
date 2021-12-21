@@ -1,0 +1,394 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yash Raj Singh</title><link>https://yashrajsingh.github.io/</link><description>Recent content on Yash Raj Singh</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Sun, 14 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrajsingh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Weather Analyzer</title><link>https://yashrajsingh.github.io/2016/08/uk-weather-analyzer/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2016/08/uk-weather-analyzer/</guid><description>
+&lt;h2 id="10k-uk-weather-analyzer-and-visualization">
+&lt;a href="#10k-uk-weather-analyzer-and-visualization" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+10K UK Weather Analyzer and Visualization
+&lt;/h2>
+&lt;p>In October 2016, I participated &amp;amp; &lt;a href="https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest">won&lt;/a> ‘Best Technical Award’ in the prestigious &lt;a href="https://a-k-apart.com/">10K Apart Challenge&lt;/a> of 2016.&lt;/p>
+&lt;p>10K Apart International Challenge by &lt;a href="http://microsoft.com/">Microsoft&lt;/a> &amp;amp; &lt;a href="https://aneventapart.com/">An Event Apart&lt;/a> is about building a compelling web experience that can be delivered in 10kB and works without JavaScript.&lt;/p>
+&lt;p>About 380 entries took part from around the globe, judged by some of the best developers, designers of the industry.&lt;/p>
+&lt;p>I made a lite version of &lt;a href="https://uk-weather-analyzer.appspot.com/">UK Weather Analyzer&lt;/a>, using NodeJS, Azure. With this application users can analyze, visualize UK &amp;amp; Other regions weather data, while playing a short game and learn some new facts as well.&lt;/p>
+&lt;p>The initial download is around ~8KB and doesn&amp;rsquo;t require JavaScript. Build with Progressive Enhancement in mind, so added enhancements with JavaScript and CSS. Accessibility and browser support(even lynx) enabled.&lt;/p>
+&lt;p>You can also fork the &lt;a href="https://github.com/yashrajsingh/10k-uk-weather">code on GitHub&lt;/a>.&lt;/p></description></item><item><title>TellMeWeatherNow!</title><link>https://yashrajsingh.github.io/2015/09/tellmeweathernow/</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2015/09/tellmeweathernow/</guid><description>
+&lt;h2 id="tellmeweathernow">
+&lt;a href="#tellmeweathernow" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+TellMeWeatherNow!
+&lt;/h2>
+&lt;p>&lt;a href="http://tellmeweathernow.appspot.com/">TellMeWeatherNow!&lt;/a>&lt;/p>
+&lt;p>In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency.&lt;/p>
+&lt;p>I did &lt;a href="http://www.gophercon.in/2015/scholarship/">got selected as a Student Scholar&lt;/a>. You can view the &lt;a href="https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015">code on GitHub&lt;/a>.&lt;/p>
+&lt;h3 id="google-app-engine-with-go">
+&lt;a href="#google-app-engine-with-go" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Google App Engine with Go
+&lt;/h3>
+&lt;p>I used an &lt;a href="http://developer.worldweatheronline.com/api/">online weather API available freely for use&lt;/a>, for fetching the data. Go Routines made it possible to fetch the data concurrently and load them asynchroniously on the results page.&lt;/p></description></item><item><title>ideaPad</title><link>https://yashrajsingh.github.io/2014/08/ideapad/</link><pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2014/08/ideapad/</guid><description>
+&lt;h2 id="ideapad">
+&lt;a href="#ideapad" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+ideaPad
+&lt;/h2>
+&lt;p>&lt;a href="https://play.google.com/store/apps/details?id=com.ideapad">ideaPad for Android&lt;/a>&lt;/p>
+&lt;p>ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&amp;rsquo;s, Answer sample questions, draw sketches - that&amp;rsquo;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas.&lt;/p>
+&lt;p>Hopefully so they won&amp;rsquo;t get lost in time and i would work on them. You can download the app from &lt;a href="https://play.google.com/store/apps/details?id=com.ideapad">Google Play Store&lt;/a>.&lt;/p></description></item><item><title>Equilibrium</title><link>https://yashrajsingh.github.io/2014/05/equilibrium/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2014/05/equilibrium/</guid><description>
+&lt;h2 id="equilibrium">
+&lt;a href="#equilibrium" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Equilibrium
+&lt;/h2>
+&lt;p>&lt;a href="https://gcdc2013-equilibrium.appspot.com">Equilibrium - gcdc2013&lt;/a>&lt;/p>
+&lt;p>In 2013, I participated in &lt;a href="http://www.google.com/events/gcdc2013">Google Cloud Developers Challenge 2013&lt;/a> and was selected as the &lt;a href="http://www.google.com/events/gcdc2013/finalists.html">internation finalist&lt;/a> in the competition.&lt;/p>
+&lt;p>I build an application for managing projects deadlines within a company. I called it Equilibrium. I won 1000$, Nexus Tablet and other goodies from Google(Yay! Score).&lt;/p>
+&lt;h3 id="google-app-engine-with-python">
+&lt;a href="#google-app-engine-with-python" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Google App Engine with Python
+&lt;/h3>
+&lt;p>Equilibrium is build on Google App engine with Python, also utilizing (Google+, Wikipedia, Google Custom Search, Google Maps) API&amp;rsquo;s for various functions. Each Project Card having different colors depending on its urgency. With a time-down clock running in the card to deﬁne its deadline time.&lt;/p>
+&lt;p>That&amp;rsquo;s where the magic happens. These cards, are an easy way of organizing various projects, and the snappiest way to equalize your work. Designed responsively, users can utilize the app in Mobile, Tablet, Laptop, Desktop and they will be greeted with a nice responsive design. Build upon Twitter Bootstrap, Flask, jinja2, webapp2.&lt;/p></description></item><item><title>Project Yello</title><link>https://yashrajsingh.github.io/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2013/06/project-yello/</guid><description>
+&lt;h2 id="project-yello">
+&lt;a href="#project-yello" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Project Yello
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/yashrajsingh/ProjectYello-Desktop">Project Yello&lt;/a>&lt;/p>
+&lt;p>In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.&lt;/p>
+&lt;p>The things we were taught in college, were of no use most of the times, because students didn&amp;rsquo;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge. You can take a look at the &lt;a href="https://github.com/yashrajsingh/ProjectYello-Desktop">code on GitHub&lt;/a>.&lt;/p></description></item><item><title>HackerTheDude</title><link>https://yashrajsingh.github.io/2011/07/hackerthedude/</link><pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2011/07/hackerthedude/</guid><description>
+&lt;h2 id="hackerthedude">
+&lt;a href="#hackerthedude" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+HackerTheDude
+&lt;/h2>
+&lt;p>&lt;a href="http://hackerthedude.blogspot.in/">HackerTheDude&lt;/a>&lt;/p>
+&lt;p>From May 2009 till 2011, I blogged about penetration testing and security for various platforms, there were number of reasons to do so.&lt;/p>
+&lt;p>First, it was a good learning process. I learned and wrote about it.&lt;/p>
+&lt;p>Second, It helpmed me understand the importance of design, programming and a lot of other things in this online world. It was my first foray into web and security. Gathering at one time over 1.8 Million+ page hits, 500+ email readers.&lt;/p>
+&lt;p>Cheers.&lt;/p>
+&lt;p>&lt;a href="http://www.facebook.com/hackerthedude">http://www.facebook.com/hackerthedude&lt;/a>
+&lt;a href="http://www.twitter.com/hackerthedude">http://www.twitter.com/hackerthedude&lt;/a>&lt;/p></description></item><item><title>Host your Resume on Google App Engine</title><link>https://yashrajsingh.github.io/2016/07/host-your-resume-on-google-app-engine/</link><pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2016/07/host-your-resume-on-google-app-engine/</guid><description>
+&lt;p>I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company.&lt;/p>
+&lt;p>The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.&lt;/p>
+&lt;p>I&amp;rsquo;m calling it &lt;a href="http://gae-resume.appspot.com/">GAE-Resume&lt;/a>, since it is built on Google App Engine, and Django(using &lt;a href="https://github.com/potatolondon/djangae">Djangae&lt;/a>), AngularJS, Bootstrap etc.&lt;/p>
+&lt;p>&lt;a href="https://github.com/yashrajsingh/gae-resume">Fork me on GitHub&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://gae-resume.appspot.com/">Available Online&lt;/a>&lt;/p>
+&lt;p>Some of the features:&lt;/p>
+&lt;ul>
+&lt;li>Made on Google App Engine with Python, So you can host it with a custom domain.&lt;/li>
+&lt;li>Responsive design.&lt;/li>
+&lt;li>Have a Kudos button, already implemented.&lt;/li>
+&lt;li>AngularJS for flexible UI.&lt;/li>
+&lt;li>Build over django, so you can even blog on it.&lt;/li>
+&lt;li>Comes with a Light weight template, with JQuery.&lt;/li>
+&lt;/ul>
+&lt;p>La-di-da-du-duh.
+Thanks.&lt;/p></description></item><item><title>Internship at BetaCraft</title><link>https://yashrajsingh.github.io/2015/09/internship-at-betacraft/</link><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2015/09/internship-at-betacraft/</guid><description>
+&lt;p>Hello there.&lt;/p>
+&lt;p>It has been time, since i have made an attempt to update my blog with the ongoing’s of my life. But now would be the right time probably.&lt;/p>
+&lt;p>Alot have changed in some months, like i am now a 4th Year Final student at Jaypee University of Engineering and Technology(JUET), Guna. That’s pretty bad-ass bro.&lt;/p>
+&lt;p>And as every engineer need to complete a mandatory training/internship at the end of the 3rd Year of B.Tech i also did.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu4zsfqsX81sa1q7i_540.png"
+alt="image"
+width=540
+height="247" />&lt;/p>
+&lt;p>In 2015, i attended &lt;a href="http://www.gophercon.in/">GopherConIndia&lt;/a> conference, Bangalore where i met alot of techies &amp;amp; awesome people. Where there was this one startup, that at that time were working on a exciting new technology which involved both hardware and software mashup on their new product called ‘Twist’, and immediately it was clear to me that i wanted to experience this work.&lt;/p>
+&lt;p>So i got an internship for 6 weeks at &lt;a href="http://rainingclouds.com/">RainingClouds&lt;/a>/&lt;a href="http://betacraft.co/">BetaCraft&lt;/a>
+Pune from June to July of 2015.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu5u1oLqMK1sa1q7i_540.jpg"
+alt="Yash Raj Singh at BetaCraft, Internship"
+width=540
+height="401" />&lt;/p>
+&lt;p>This picture here people, depicts the whole team of RainingClouds.&lt;/p>
+&lt;p>Great people, Great work. Period.&lt;/p>
+&lt;h2 id="my-work">
+&lt;a href="#my-work" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+My Work
+&lt;/h2>
+&lt;p>&lt;a href="http://ressyapp.com/">Ressy&lt;/a>&lt;/p>
+&lt;p>Ressy is real-time table management solution for restaurant industry. It’s a platform for publishing and availing discounts from various restaurants in real-time.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6je3y2Yh1sa1q7i_540.png"
+alt="image"
+width=540
+height="222" />&lt;/p>
+&lt;p>I worked on the back-end for the Ressy app, implemented various features for the app back-end on Golang, MongoDB, PostgreSQL etc.&lt;/p>
+&lt;p>&lt;a href="http://www.gettwist.tv/">Twist&lt;/a> is a powerful Android™ powered HDMI dongle which plugs into your TV. It’s a one stop solution for your family’s Gaming and Media entertainment needs.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6jcsIzvL1sa1q7i_540.png"
+alt="image"
+width=540
+height="401" />&lt;/p>
+&lt;p>I developed various touch drivers like *Multi-Touch driver and mouse pointer driver for the device during my internship.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6jzc3a2q1sa1q7i_540.jpg"
+alt="image"
+width=540
+height="240" />&lt;/p>
+&lt;p>This here, is the screen shot of our first successful Multi touch driver test painting with 3 points on the screen. That was a memorable day.&lt;/p>
+&lt;h2 id="pune">
+&lt;a href="#pune" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Pune
+&lt;/h2>
+&lt;p>Well, I just loved pune. It was so refreshing, people are so nice, young people all around. I would argue that pune is probably the best city to live in india right now, if you are 20+, love life and need work.&lt;/p>
+&lt;p>With so much to offer pune stands out from other biggies of India like New Delhi, Bangalore, Mumbai etc. and the food is so versatile that even a month in pune you would be eating new stuff each day &amp;amp; the tastes are muah.&lt;/p>
+&lt;p>Some pictures.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6jwhryrR1sa1q7i_540.jpg"
+alt="Yash Raj Singh at BetaCraft, Internship"
+width=540
+height="405" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6jwyai951sa1q7i_540.jpg"
+alt="image"
+width=540
+height="303" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6jxjZs3S1sa1q7i_540.jpg"
+alt="image"
+width=540
+height="303" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6lg83xYp1sa1q7i_540.jpg"
+alt="Yash Raj Singh at BetaCraft, Internship"
+width=540
+height="405" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6lixMZnX1sa1q7i_540.jpg"
+alt="image"
+width=540
+height="303" />&lt;/p>
+&lt;p>Loved Pune Food :)&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/09/internship-at-betacraft/tumblr_inline_nu6ljkoToI1sa1q7i_540.jpg"
+alt="image"
+width=540
+height="303" />&lt;/p>
+&lt;h2 id="conclusion">
+&lt;a href="#conclusion" class="anchor">
+&lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+&lt;path fill-rule="evenodd"
+d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+&lt;/path>
+&lt;/svg>
+&lt;/a>
+Conclusion
+&lt;/h2>
+&lt;p>Overall i had such a nice time and experience of a lifetime at my internship. With so much to learn both on the engineering side and lifestyle. BetaCraft is full of awesome people with so much to learn from, i was lucky to get such an opportunity to work with such great team on a great mission.&lt;/p>
+&lt;p>Here is my &lt;a href="https://drive.google.com/file/d/0B19RfWY3tagHX3hTcmw3VmZSQTQ/view?usp=sharing">Training Presentation&lt;/a>.&lt;/p>
+&lt;p>Tadaa.&lt;/p></description></item><item><title>Moments from GopherConIndia 2015</title><link>https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/</link><pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/</guid><description>
+&lt;p>Moments from GopherConIndia, Bangalore, Hotel Royal Orchid.&lt;/p>
+&lt;p>19th-21st February, 2015.&lt;/p>
+&lt;p>&lt;a href="http://www.gophercon.in/">GopherCon India&lt;/a>&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o3_1280.jpg"
+alt=""
+width=1280
+height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o9_1280.jpg"
+alt=""
+width=1280
+height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o8_1280.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+width=640
+height="480" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o7_500.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+width=480
+height="640" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o6_500.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+width=480
+height="640" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o10_1280.jpg"
+alt=""
+width=1280
+height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o5_1280.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+width=640
+height="480" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o4_1280.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+width=640
+height="480" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o1_1280.jpg"
+alt=""
+width=1280
+height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o2_1280.jpg"
+alt="Yash Raj Singh at GopherConIndia"
+title="Yash Raj Singh at GopherConIndia"
+width=1280
+height="850" />&lt;/p></description></item><item><title>Connect Cyberoam WiFi on Windows Phone 8.1</title><link>https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</link><pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</guid><description>
+&lt;p>Connect to Cyberoam WiFi Networks on Windows Phone 8.1&lt;/p>
+&lt;p>Since the dawn of Windows Phone. It has been a sad sad journey for EAP
+WiFi network users to enjoy internet access.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nantg7ie0o1sa1q7i.jpg"
+alt="image"
+width=500
+height="375" />&lt;/p>
+&lt;p>For college students to connect to their wonderful college WiFi. So they
+can enjoy the sweat taste of internet information.&lt;/p>
+&lt;blockquote>
+&lt;p>Note: This requires Windows Phone 8.1.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>But not anymore.&lt;/strong>&lt;/p>
+&lt;p>This tutorial will help connect their windows phones to Cyber-Roam based
+Hidden WiFi Networks which works on &lt;em>EAP-TLS Wireless authentication system.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Follow these simple baby steps:&lt;/strong>&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nanr78aNeH1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/p>
+&lt;p>&lt;strong>1. Open Settings. Click on WiFi Settings.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nantk9LLGt1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>2. Tap on manage.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nantptmlGR1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;strong>&lt;strong>3. Tap on (+) button on the bottom, to add a new WiFi
+network.&lt;/strong>&lt;/strong>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nantzsbwOH1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/p>
+&lt;p>&lt;strong>4. After writing “JIET” or whatever your college hidden wifi network
+is known as. Click on Add.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_napvi8X2ik1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/p>
+&lt;p>&lt;strong>5. Tap on “Sign in a different way”.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>**&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nanu3ykru81sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/p>
+&lt;p>&lt;strong>6. Now this is the main settings screen, add settings according to
+your college. for my college, Jaypee University of Engineering and
+Technology, Guna this would work.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>7. After clicking on “Done” button you would be redirected to login screen for your college WiFi Network. &lt;em>Tadaaa&lt;/em> you just connected to your college’s WiFi network.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nanu8w7Rhy1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>There is a Cyberoam client available on Windows phone market available
+for the ease.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="http://www.windowsphone.com/en-in/store/app/cyberoam-login/77096fe6-393b-4a66-bebd-fcf64010f6c8" title="Cyberoam Login">Cyberoam
+Login&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nanuk80wvu1sa1q7i.png"
+alt="image"
+width=422
+height="750" />&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>That’s how we do it, People. Like a &lt;em>shazamm.&lt;/em>&lt;/strong>&lt;/p></description></item><item><title>Moments From Dextra 2K14 - JUET, Guna</title><link>https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/</link><pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate><guid>https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/</guid><description>
+&lt;p>&lt;a href="http://www.dextrajuet.org/">Dextra JUET&lt;/a>&lt;/p>
+&lt;p>Moments of Dextra 2K14.&lt;/p>
+&lt;p>Technical Festival for Jaypee University of Engineering and Technology, Guna.&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o4_1280.png"
+alt="Yash Raj Singh at JUET"
+width=960
+height="457" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o2_1280.jpg"
+alt="Yash Raj Singh at JUET"
+width=960
+height="640" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o3_1280.jpg"
+alt="Yash Raj Singh at JUET"
+width=960
+height="640" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o5_1280.jpg"
+alt="Yash Raj Singh at JUET"
+width=960
+height="640" />&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://yashrajsingh.github.io/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o1_1280.jpg"
+alt="Yash Raj Singh at JUET"
+width=960
+height="436" />&lt;/p></description></item></channel></rss>
