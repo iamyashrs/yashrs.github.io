@@ -1,0 +1,6 @@
+[submodule "themes/hugo-tania"]
+	path = themes/hugo-tania
+	url = https://github.com/yashrajsingh/hugo-tania
+[submodule "quickstart/themes/hugo-tania"]
+	path = quickstart/themes/hugo-tania
+	url = https://github.com/yashrajsingh/hugo-tania
