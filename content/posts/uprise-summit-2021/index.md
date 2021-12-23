@@ -3,11 +3,11 @@ title: "Uprise Summit 2021"
 date: 2021-07-30
 description: "A trip in Portugal, founders, explorers & misfits – driven by growth, making an impact & feeling alive together"
 type: post
-# draft: true
 tags:
 - travel
-- conference
+- conferences
 categories:
+- conferences
 ---
 
 In August 2021, I got an opportunity to visit Portugal on a experiencial trip in the southern part Algarve of the country. I felt lucky to get a change to make the experience with other 60 founders, explorers and misfits from across the world.
@@ -41,3 +41,9 @@ I had an amazing time and learned alot during the trip. Below are some of the mo
 
 
 ![Uprise Summit 2021](7.jpg)
+
+
+![Uprise Summit 2021](8.jpg)
+
+
+{{< youtube aDRTnqw5iWw >}}
