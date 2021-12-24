@@ -6,7 +6,7 @@ description = 'A developer, designer from India. Here is some of my work.'
 theme = "hugo-tania"
 
 # Number of posts per page
-paginate = "10" 
+paginate = "25" 
 googleAnalytics = "UA-48538474-1"
 canonifyURLs = true
 copyright = "Yash Raj Singh"

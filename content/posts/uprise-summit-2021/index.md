@@ -22,6 +22,7 @@ I had an amazing time and learned alot during the trip. Below are some of the mo
 
 [Uprise Academy](https://www.uprise.academy/)
 
+
 ![Uprise Summit 2021](1.jpg)
 
 

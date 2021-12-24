@@ -12,3 +12,10 @@ serve:
 .PHONY: generate
 generate: 
 	hugo
+
+.PHONY: remove-exif
+remove-exif:
+	exiftool -all:all= -r -overwrite_original content/
+
+dep:
+	brew install --cask hugo exiftool 
