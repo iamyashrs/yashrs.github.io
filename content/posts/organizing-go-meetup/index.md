@@ -23,10 +23,19 @@ Sharing some of the media from the experience:
 ![GoWest Gothenburg 2019](2.jpg)
 
 
+![GoWest Gothenburg 2019](5.jpg)
+
+
 ![GoWest Gothenburg 2019](3.jpg)
 
 
 ![GoWest Gothenburg 2019](4.jpg)
+
+
+![GoWest Gothenburg 2019](6.jpg)
+
+
+![GoWest Gothenburg 2019](7.jpg)
 
 
 Part 1:
