@@ -86,9 +86,9 @@ enableRobotsTXT = true
 [[menu.header]]
   name = "About"
   url = "/pages/about/"
-[[menu.header]]
-  name = "Projects"
-  url = "/pages/projects/"
+# [[menu.header]]
+#   name = "Projects"
+#   url = "/pages/projects/"
 [[menu.footer]]
   name = "RSS"
   url = "/index.xml"
