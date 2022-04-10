@@ -41,9 +41,6 @@ Here are some of the moments from the journey at Jagriti Yatra:
 ![Jagriti Yatra 2017](7.jpg)
 
 
-![Jagriti Yatra 2017](8.jpg)
-
-
 ![Jagriti Yatra 2017](9.jpg)
 
 
@@ -78,9 +75,6 @@ Here are some of the moments from the journey at Jagriti Yatra:
 
 
 ![Jagriti Yatra 2017](20.jpg)
-
-
-![Jagriti Yatra 2017](21.jpg)
 
 
 {{< youtube id="z6DCiD3AW5U" >}}

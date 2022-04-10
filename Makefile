@@ -3,7 +3,7 @@ all: update-theme
 
 .PHONY: update-theme
 update-theme:
-	git submodule update --remote
+	git submodule update --recursive --remote
 
 .PHONY: serve
 serve: 

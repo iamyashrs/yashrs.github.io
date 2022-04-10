@@ -7,6 +7,7 @@ link: https://hackerthedude.blogspot.in/
 repo: https://hackerthedude.blogspot.in/
 icon: images/icons/htd.ico
 type: post
+draft: true
 tags:
 - blog
 - security
