@@ -60,19 +60,13 @@ With so much to offer pune stands out from other biggies of India like New Delhi
 
 Some pictures.
 
-![Yash Raj Singh at BetaCraft, Internship](tumblr_inline_nu6jwhryrR1sa1q7i_540.jpg)
-
 ![image](tumblr_inline_nu6jwyai951sa1q7i_540.jpg)
 
-![image](tumblr_inline_nu6jxjZs3S1sa1q7i_540.jpg)
-
-![Yash Raj Singh at BetaCraft, Internship](tumblr_inline_nu6lg83xYp1sa1q7i_540.jpg)
+![image](tumblr_inline_nu6jxjZs3S1sa1q7i_540.jpg))
 
 ![image](tumblr_inline_nu6lixMZnX1sa1q7i_540.jpg)
 
 Loved Pune Food :)
-
-![image](tumblr_inline_nu6ljkoToI1sa1q7i_540.jpg)
 
 
 Conclusion
