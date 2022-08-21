@@ -54,6 +54,8 @@ enableRobotsTXT = true
   twitter = "iamyashrajsingh" 
   email = "mail.yashrajsingh@gmail.com"
 
+  googleTagManagerID = "G-P9RFYN5QXS"
+
   # Limit how many categories filter show above search input.
   # Default to 5
   maxCategoryToShow = 10
