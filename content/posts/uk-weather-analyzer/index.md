@@ -3,8 +3,8 @@ title: "UK Weather Analyzer"
 date: 2016-08-14
 description: "2016 Project winning Best Technical Prize in 10K Apart Challenge by Microsoft."
 weight: 1
-link: https://github.com/yashrajsingh/10k-uk-weather
-repo: https://github.com/yashrajsingh/10k-uk-weather
+link: https://github.com/iamyashrs/10k-uk-weather
+repo: https://github.com/iamyashrs/10k-uk-weather
 icon: icons/ukw.png
 type: project
 tags:
@@ -27,4 +27,4 @@ I made a lite version of [UK Weather Analyzer](https://uk-weather-analyzer.appsp
 
 The initial download is around ~8KB and doesn't require JavaScript. Build with Progressive Enhancement in mind, so added enhancements with JavaScript and CSS. Accessibility and browser support(even lynx) enabled. 
 
-You can also fork the [code on GitHub](https://github.com/yashrajsingh/10k-uk-weather).
+You can also fork the [code on GitHub](https://github.com/iamyashrs/10k-uk-weather).

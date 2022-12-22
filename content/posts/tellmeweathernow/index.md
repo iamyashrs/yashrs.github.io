@@ -3,8 +3,8 @@ title: "TellMeWeatherNow!"
 date: 2015-09-24
 description: "GopherConIndia 2015 project made in Golang, shows weather of 5 cities concurrently."
 weight: 1
-link: https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015
-repo: https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015
+link: https://github.com/iamyashrs/tellmeweathernow-gopherconindia2015
+repo: https://github.com/iamyashrs/tellmeweathernow-gopherconindia2015
 icon: icons/twn!.png
 type: project
 tags:
@@ -22,7 +22,7 @@ categories:
 
 In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency. 
 
-I did [got selected as a Student Scholar](http://www.gophercon.in/2015/scholarship/). You can view the [code on GitHub](https://github.com/yashrajsingh/tellmeweathernow-gopherconindia2015).
+I did [got selected as a Student Scholar](http://www.gophercon.in/2015/scholarship/). You can view the [code on GitHub](https://github.com/iamyashrs/tellmeweathernow-gopherconindia2015).
 
 ### Google App Engine with Go
 

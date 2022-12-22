@@ -1,9 +1,9 @@
-yashrajsingh.net
+Homepage
 ======================
 
-[![github pages](https://github.com/yashrajsingh/yashrajsingh.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/yashrajsingh/yashrajsingh.github.io/actions/workflows/gh-pages.yml)
+[![github pages](https://github.com/iamyashrs/yashrs.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/iamyashrs/yashrs.github.io/actions/workflows/gh-pages.yml)
 
-Hugo powered yashrajsingh.net. 
+Hugo powered webpage. 
 Website generated in public folder.
 
 Run Locally

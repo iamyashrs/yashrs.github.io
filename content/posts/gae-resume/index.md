@@ -15,7 +15,7 @@ The idea is very simple, since to stand out amoung the applicants you need to be
 
 I'm calling it [GAE-Resume](http://gae-resume.appspot.com/), since it is built on Google App Engine, and Django(using [Djangae](https://github.com/potatolondon/djangae)), AngularJS, Bootstrap etc.
 
-[Fork me on GitHub](https://github.com/yashrajsingh/gae-resume)
+[Fork me on GitHub](https://github.com/iamyashrs/gae-resume)
 
 [Available Online](http://gae-resume.appspot.com/)
 

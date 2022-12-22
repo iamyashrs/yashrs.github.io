@@ -1,8 +1,8 @@
-baseURL = 'https://yashrajsingh.net/'
+baseURL = 'https://yashrs.com/'
 languageCode = 'en-us'
 shortTitle = 'Yash'
-title = 'Yash Raj Singh'
-description = 'A developer, designer from India. Here is some of my work.'
+title = 'Yash'
+description = 'A builder from India. Here is some of my work.'
 theme = "hugo-tania"
 
 # Number of posts per page
@@ -23,7 +23,7 @@ enableRobotsTXT = true
     page = "/:slug/"
 
 [Author]
-    name = "Yash Raj Singh"
+    name = "Yash"
     bio = ""
     avatar = "images/logo.png"
 
@@ -45,13 +45,13 @@ enableRobotsTXT = true
   # Default to true
   enableFootnotes = true
 
-  siteName = "Yash Raj Singh"
+  siteName = "Yash"
   siteDesc = ""
   author = "Yash Raj Singh"
   RSSLink = "/index.xml"
-  github = "yashrajsingh" 
-  twitter = "iamyashrajsingh" 
-  email = "mail.yashrajsingh@gmail.com"
+  github = "iamyashrs" 
+  twitter = "iamyashrs" 
+  email = "iamyashrs@gmail.com"
 
   googleTagManagerID = "G-0WWHNNLX79"
 
@@ -62,16 +62,16 @@ enableRobotsTXT = true
   # Show your social information with icon on index bio with `_index.md` content.
   [Params.socialOptions]
     dev-to = ""
-    email = "mail.yashrajsingh@gmail.com"
+    email = "iamyashrs@gmail.com"
     facebook = ""
-    github = "https://github.com/yashrajsingh"
+    github = "https://github.com/iamyashrs"
     instagram = ""
-    linkedin = "https://www.linkedin.com/in/yashrajsingh"
+    linkedin = "https://www.linkedin.com/in/iamyashrs"
     medium = ""
     stack-overflow = ""
     steam = ""
     telegram = ""
-    twitter = "https://twitter.com/iamyashrajsingh"
+    twitter = "https://twitter.com/iamyashrs"
     twitch = ""
     whatsapp = ""
   
