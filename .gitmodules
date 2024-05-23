@@ -1,3 +1,4 @@
 [submodule "themes/hugo-tania"]
-	path = themes/hugo-tania
-	url = git@github.com:iamyashrs/hugo-tania.git
+path = themes/hugo-tania
+url = git@github.com:iamyashrs/hugo-tania.git
+ignore = dirty
