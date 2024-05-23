@@ -137,7 +137,8 @@ alt="Uprise Summit 2021"
 width=2048
 height="938" />&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/aDRTnqw5iWw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/aDRTnqw5iWw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div></description></item><item><title>Go Community - Gothenburg, Sweden</title><link>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</link><pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</guid><description>
 &lt;p>It has been an pleasure to work with the Golang community in the city of Gothenburg, Sweden. I have had the opportunity to co-organize events for Golang community as part GoWest Meetup.&lt;/p>
 &lt;p>&lt;a href="https://www.meetup.com/sweden-go-west/">GoWest Meetup&lt;/a>&lt;/p>
@@ -180,12 +181,14 @@ width=6716
 height="3932" />&lt;/p>
 &lt;p>Part 1:
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/PA340KU96CE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PA340KU96CE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div>
 &lt;/p>
 &lt;p>Part 2:
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/psBVix7BZ2M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/psBVix7BZ2M?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div>
 &lt;/p></description></item><item><title>FOSDEM 2019</title><link>https://yashrs.com/2019/02/fosdem-2019/</link><pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/02/fosdem-2019/</guid><description>
 &lt;p>In 2019, I got a chance to take part in FOSDEM in Brussels, Belgium.&lt;/p>
@@ -317,7 +320,8 @@ alt="Jagriti Yatra 2017"
 width=4032
 height="3024" />&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/z6DCiD3AW5U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/z6DCiD3AW5U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div></description></item><item><title>Host your Resume on Google App Engine</title><link>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</link><pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</guid><description>
 &lt;p>I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company.&lt;/p>
 &lt;p>The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.&lt;/p>
