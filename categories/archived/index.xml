@@ -1,13 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Archived on Yash</title><link>https://yashrs.com/categories/archived/</link><description>Recent content in Archived on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Sun, 14 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/categories/archived/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Weather Analyzer</title><link>https://yashrs.com/2016/08/uk-weather-analyzer/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/08/uk-weather-analyzer/</guid><description>10K UK Weather Analyzer and Visualization In October 2016, I participated &amp;amp; won ‘Best Technical Award’ in the prestigious 10K Apart Challenge of 2016.
-10K Apart International Challenge by Microsoft &amp;amp; An Event Apart is about building a compelling web experience that can be delivered in 10kB and works without JavaScript.
-About 380 entries took part from around the globe, judged by some of the best developers, designers of the industry.</description></item><item><title>TellMeWeatherNow!</title><link>https://yashrs.com/2015/09/tellmeweathernow/</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/tellmeweathernow/</guid><description>TellMeWeatherNow! TellMeWeatherNow!
-In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency.
-I did got selected as a Student Scholar. You can view the code on GitHub.
-Google App Engine with Go I used an online weather API available freely for use, for fetching the data.</description></item><item><title>ideaPad</title><link>https://yashrs.com/2014/08/ideapad/</link><pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/ideapad/</guid><description>ideaPad ideaPad for Android
-ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&amp;rsquo;s, Answer sample questions, draw sketches - that&amp;rsquo;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas.
-Hopefully so they won&amp;rsquo;t get lost in time and i would work on them.</description></item><item><title>Equilibrium</title><link>https://yashrs.com/2014/05/equilibrium/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/equilibrium/</guid><description>Equilibrium Equilibrium - gcdc2013
-In 2013, I participated in Google Cloud Developers Challenge 2013 and was selected as the internation finalist in the competition.
-I build an application for managing projects deadlines within a company. I called it Equilibrium. I won 1000$, Nexus Tablet and other goodies from Google(Yay! Score).
-Google App Engine with Python Equilibrium is build on Google App engine with Python, also utilizing (Google+, Wikipedia, Google Custom Search, Google Maps) API&amp;rsquo;s for various functions.</description></item><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>Project Yello Project Yello
-In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.
-The things we were taught in college, were of no use most of the times, because students didn&amp;rsquo;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Archived on Yash</title><link>https://yashrs.com/categories/archived/</link><description>Recent content in Archived on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Sun, 14 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/categories/archived/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Weather Analyzer</title><link>https://yashrs.com/2016/08/uk-weather-analyzer/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/08/uk-weather-analyzer/</guid><description>&lt;h2 id="10k-uk-weather-analyzer-and-visualization">
+ &lt;a href="#10k-uk-weather-analyzer-and-visualization" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ 10K UK Weather Analyzer and Visualization
+&lt;/h2>
+&lt;p>In October 2016, I participated &amp;amp; &lt;a href="https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest">won&lt;/a> ‘Best Technical Award’ in the prestigious &lt;a href="https://a-k-apart.com/">10K Apart Challenge&lt;/a> of 2016.&lt;/p></description></item><item><title>TellMeWeatherNow!</title><link>https://yashrs.com/2015/09/tellmeweathernow/</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/tellmeweathernow/</guid><description>&lt;h2 id="tellmeweathernow">
+ &lt;a href="#tellmeweathernow" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ TellMeWeatherNow!
+&lt;/h2>
+&lt;p>&lt;a href="http://tellmeweathernow.appspot.com/">TellMeWeatherNow!&lt;/a>&lt;/p>
+&lt;p>In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency.&lt;/p></description></item><item><title>ideaPad</title><link>https://yashrs.com/2014/08/ideapad/</link><pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/ideapad/</guid><description>&lt;h2 id="ideapad">
+ &lt;a href="#ideapad" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ ideaPad
+&lt;/h2>
+&lt;p>&lt;a href="https://play.google.com/store/apps/details?id=com.ideapad">ideaPad for Android&lt;/a>&lt;/p>
+&lt;p>ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&amp;rsquo;s, Answer sample questions, draw sketches - that&amp;rsquo;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas.&lt;/p></description></item><item><title>Equilibrium</title><link>https://yashrs.com/2014/05/equilibrium/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/equilibrium/</guid><description>&lt;h2 id="equilibrium">
+ &lt;a href="#equilibrium" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ Equilibrium
+&lt;/h2>
+&lt;p>&lt;a href="https://gcdc2013-equilibrium.appspot.com">Equilibrium - gcdc2013&lt;/a>&lt;/p>
+&lt;p>In 2013, I participated in &lt;a href="http://www.google.com/events/gcdc2013">Google Cloud Developers Challenge 2013&lt;/a> and was selected as the &lt;a href="http://www.google.com/events/gcdc2013/finalists.html">internation finalist&lt;/a> in the competition.&lt;/p></description></item><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>&lt;h2 id="project-yello">
+ &lt;a href="#project-yello" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ Project Yello
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/iamyashrs/ProjectYello-Desktop">Project Yello&lt;/a>&lt;/p>
+&lt;p>In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.&lt;/p></description></item></channel></rss>

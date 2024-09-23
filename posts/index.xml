@@ -1,33 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yash</title><link>https://yashrs.com/posts/</link><description>Recent content in Posts on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Weather Analyzer</title><link>https://yashrs.com/2016/08/uk-weather-analyzer/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/08/uk-weather-analyzer/</guid><description>10K UK Weather Analyzer and Visualization In October 2016, I participated &amp;amp; won ‘Best Technical Award’ in the prestigious 10K Apart Challenge of 2016.
-10K Apart International Challenge by Microsoft &amp;amp; An Event Apart is about building a compelling web experience that can be delivered in 10kB and works without JavaScript.
-About 380 entries took part from around the globe, judged by some of the best developers, designers of the industry.</description></item><item><title>TellMeWeatherNow!</title><link>https://yashrs.com/2015/09/tellmeweathernow/</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/tellmeweathernow/</guid><description>TellMeWeatherNow! TellMeWeatherNow!
-In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency.
-I did got selected as a Student Scholar. You can view the code on GitHub.
-Google App Engine with Go I used an online weather API available freely for use, for fetching the data.</description></item><item><title>ideaPad</title><link>https://yashrs.com/2014/08/ideapad/</link><pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/ideapad/</guid><description>ideaPad ideaPad for Android
-ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&amp;rsquo;s, Answer sample questions, draw sketches - that&amp;rsquo;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas.
-Hopefully so they won&amp;rsquo;t get lost in time and i would work on them.</description></item><item><title>Equilibrium</title><link>https://yashrs.com/2014/05/equilibrium/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/equilibrium/</guid><description>Equilibrium Equilibrium - gcdc2013
-In 2013, I participated in Google Cloud Developers Challenge 2013 and was selected as the internation finalist in the competition.
-I build an application for managing projects deadlines within a company. I called it Equilibrium. I won 1000$, Nexus Tablet and other goodies from Google(Yay! Score).
-Google App Engine with Python Equilibrium is build on Google App engine with Python, also utilizing (Google+, Wikipedia, Google Custom Search, Google Maps) API&amp;rsquo;s for various functions.</description></item><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>Project Yello Project Yello
-In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.
-The things we were taught in college, were of no use most of the times, because students didn&amp;rsquo;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge.</description></item><item><title>Uprise Summit 2021</title><link>https://yashrs.com/2021/07/uprise-summit-2021/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://yashrs.com/2021/07/uprise-summit-2021/</guid><description>In August 2021, I got an opportunity to visit Portugal on a experiencial trip in the southern part Algarve of the country. I felt lucky to get a change to make the experience with other 60 founders, explorers and misfits from across the world.
-Uprise was an community of explorers who want to change things in the world. Indeed it was a private collective for the new wave of founders, explorers &amp;amp; misfits.</description></item><item><title>Go Community - Gothenburg, Sweden</title><link>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</link><pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</guid><description>It has been an pleasure to work with the Golang community in the city of Gothenburg, Sweden. I have had the opportunity to co-organize events for Golang community as part GoWest Meetup.
-GoWest Meetup
-Good community, good language and great support for everybody. What drives great communities are the people involved in making sure everybody is involved and heard, sharing and caring.
-Sharing some of the media from the experience:</description></item><item><title>FOSDEM 2019</title><link>https://yashrs.com/2019/02/fosdem-2019/</link><pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/02/fosdem-2019/</guid><description>In 2019, I got a chance to take part in FOSDEM in Brussels, Belgium.
-I had a wonderful experience of experiencing the culture of FOSS that the IT industry thrives on. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. I visited with my colleages at Opera. Here are some of the momentes from the conference.
-FOSDEM 2019</description></item><item><title>Jagriti Yatra 2017</title><link>https://yashrs.com/2018/03/jagriti-yatra-2017/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://yashrs.com/2018/03/jagriti-yatra-2017/</guid><description>After applying for 3 years, I was fortuante enough to get a chance to experience Jagriti Yatra at it&amp;rsquo;s fullest.
-Jagriti Yatra 2017 is an ambitious train journey of discovery and transformation that takes hundreds of India’s highly motivated youth, especially those from smaller towns and villages of India, on a 15 day, 8000 km national odyssey too meet role models- social and business entrepreneurs – of the country.
-Jagriti Yatra</description></item><item><title>Host your Resume on Google App Engine</title><link>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</link><pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</guid><description>I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company.
-The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.</description></item><item><title>Internship at BetaCraft</title><link>https://yashrs.com/2015/09/internship-at-betacraft/</link><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/internship-at-betacraft/</guid><description>Hello there.
-It has been time, since i have made an attempt to update my blog with the ongoing’s of my life. But now would be the right time probably.
-Alot have changed in some months, like i am now a 4th Year Final student at Jaypee University of Engineering and Technology(JUET), Guna. That’s pretty bad-ass bro.
-And as every engineer need to complete a mandatory training/internship at the end of the 3rd Year of B.</description></item><item><title>Moments from GopherConIndia 2015</title><link>https://yashrs.com/2015/02/moments-from-gopherconindia-2015/</link><pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/02/moments-from-gopherconindia-2015/</guid><description>Moments from GopherConIndia, Bangalore, Hotel Royal Orchid.
-19th-21st February, 2015.
-GopherCon India</description></item><item><title>Connect Cyberoam WiFi on Windows Phone 8.1</title><link>https://yashrs.com/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</link><pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</guid><description>Connect to Cyberoam WiFi Networks on Windows Phone 8.1
-Since the dawn of Windows Phone. It has been a sad sad journey for EAP WiFi network users to enjoy internet access.
-For college students to connect to their wonderful college WiFi. So they can enjoy the sweat taste of internet information.
-Note: This requires Windows Phone 8.1.
-But not anymore.
-This tutorial will help connect their windows phones to Cyber-Roam based Hidden WiFi Networks which works on EAP-TLS Wireless authentication system.</description></item><item><title>Moments From Dextra 2K14 - JUET, Guna</title><link>https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/</link><pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/</guid><description>Dextra 2K14, JUET
-Technical Festival for Jaypee University of Engineering and Technology, Guna.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yash</title><link>https://yashrs.com/posts/</link><description>Recent content in Posts on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>UK Weather Analyzer</title><link>https://yashrs.com/2016/08/uk-weather-analyzer/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/08/uk-weather-analyzer/</guid><description>&lt;h2 id="10k-uk-weather-analyzer-and-visualization">
+ &lt;a href="#10k-uk-weather-analyzer-and-visualization" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ 10K UK Weather Analyzer and Visualization
+&lt;/h2>
+&lt;p>In October 2016, I participated &amp;amp; &lt;a href="https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest">won&lt;/a> ‘Best Technical Award’ in the prestigious &lt;a href="https://a-k-apart.com/">10K Apart Challenge&lt;/a> of 2016.&lt;/p></description></item><item><title>TellMeWeatherNow!</title><link>https://yashrs.com/2015/09/tellmeweathernow/</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/tellmeweathernow/</guid><description>&lt;h2 id="tellmeweathernow">
+ &lt;a href="#tellmeweathernow" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ TellMeWeatherNow!
+&lt;/h2>
+&lt;p>&lt;a href="http://tellmeweathernow.appspot.com/">TellMeWeatherNow!&lt;/a>&lt;/p>
+&lt;p>In September, 2014 I solved a challenge for selection of GopherConIndia 2015 scholars, I had to create a web based application for showing Weather updates for 5 cities concurrently, in Golang using Go Routines for concurrency.&lt;/p></description></item><item><title>ideaPad</title><link>https://yashrs.com/2014/08/ideapad/</link><pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/ideapad/</guid><description>&lt;h2 id="ideapad">
+ &lt;a href="#ideapad" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ ideaPad
+&lt;/h2>
+&lt;p>&lt;a href="https://play.google.com/store/apps/details?id=com.ideapad">ideaPad for Android&lt;/a>&lt;/p>
+&lt;p>ideaPad is an easy-to-use, app that helps you remember your greatest ideas. Quickly save your ideas or to-do&amp;rsquo;s, Answer sample questions, draw sketches - that&amp;rsquo;s the magic. It helps you gain momentum on your life goals and ideas. I build the app in August 2014, because i needed a place where i could store my ideas.&lt;/p></description></item><item><title>Equilibrium</title><link>https://yashrs.com/2014/05/equilibrium/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/equilibrium/</guid><description>&lt;h2 id="equilibrium">
+ &lt;a href="#equilibrium" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ Equilibrium
+&lt;/h2>
+&lt;p>&lt;a href="https://gcdc2013-equilibrium.appspot.com">Equilibrium - gcdc2013&lt;/a>&lt;/p>
+&lt;p>In 2013, I participated in &lt;a href="http://www.google.com/events/gcdc2013">Google Cloud Developers Challenge 2013&lt;/a> and was selected as the &lt;a href="http://www.google.com/events/gcdc2013/finalists.html">internation finalist&lt;/a> in the competition.&lt;/p></description></item><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>&lt;h2 id="project-yello">
+ &lt;a href="#project-yello" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ Project Yello
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/iamyashrs/ProjectYello-Desktop">Project Yello&lt;/a>&lt;/p>
+&lt;p>In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.&lt;/p></description></item><item><title>Uprise Summit 2021</title><link>https://yashrs.com/2021/07/uprise-summit-2021/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://yashrs.com/2021/07/uprise-summit-2021/</guid><description>&lt;p>In August 2021, I got an opportunity to visit Portugal on a experiencial trip in the southern part Algarve of the country. I felt lucky to get a change to make the experience with other 60 founders, explorers and misfits from across the world.&lt;/p>
+&lt;p>Uprise was an community of explorers who want to change things in the world. Indeed it was a private collective for the new wave of founders, explorers &amp;amp; misfits. With members taking entrepreneurial action together – for lives full of meaning, growth &amp;amp; impact.&lt;/p></description></item><item><title>Go Community - Gothenburg, Sweden</title><link>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</link><pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/08/go-community-gothenburg-sweden/</guid><description>&lt;p>It has been an pleasure to work with the Golang community in the city of Gothenburg, Sweden. I have had the opportunity to co-organize events for Golang community as part GoWest Meetup.&lt;/p>
+&lt;p>&lt;a href="https://www.meetup.com/sweden-go-west/">GoWest Meetup&lt;/a>&lt;/p>
+&lt;p>Good community, good language and great support for everybody. What drives great communities are the people involved in making sure everybody is involved and heard, sharing and caring.&lt;/p>
+&lt;p>Sharing some of the media from the experience:&lt;/p></description></item><item><title>FOSDEM 2019</title><link>https://yashrs.com/2019/02/fosdem-2019/</link><pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate><guid>https://yashrs.com/2019/02/fosdem-2019/</guid><description>&lt;p>In 2019, I got a chance to take part in FOSDEM in Brussels, Belgium.&lt;/p>
+&lt;p>I had a wonderful experience of experiencing the culture of FOSS that the IT industry thrives on. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. I visited with my colleages at Opera. Here are some of the momentes from the conference.&lt;/p>
+&lt;p>&lt;a href="https://archive.fosdem.org/2019/">FOSDEM 2019&lt;/a>&lt;/p></description></item><item><title>Jagriti Yatra 2017</title><link>https://yashrs.com/2018/03/jagriti-yatra-2017/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://yashrs.com/2018/03/jagriti-yatra-2017/</guid><description>&lt;p>After applying for 3 years, I was fortuante enough to get a chance to experience Jagriti Yatra at it&amp;rsquo;s fullest.&lt;/p>
+&lt;p>Jagriti Yatra 2017 is an ambitious train journey of discovery and transformation that takes hundreds of India’s highly motivated youth, especially those from smaller towns and villages of India, on a 15 day, 8000 km national odyssey too meet role models- social and business entrepreneurs – of the country.&lt;/p>
+&lt;p>&lt;a href="https://www.jagritiyatra.com/">Jagriti Yatra&lt;/a>&lt;/p></description></item><item><title>Host your Resume on Google App Engine</title><link>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</link><pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate><guid>https://yashrs.com/2016/07/host-your-resume-on-google-app-engine/</guid><description>&lt;p>I made a little boilerplate over the weekend, for people who are searching for jobs and want to build a customized resume for a specific company.&lt;/p>
+&lt;p>The idea is very simple, since to stand out amoung the applicants you need to be visible and you can be visible by making a specific web page (since its responsive and available through the internet) describing about yourself and how you stand out from others, plus how the company can benefit from your skills and services.&lt;/p></description></item><item><title>Internship at BetaCraft</title><link>https://yashrs.com/2015/09/internship-at-betacraft/</link><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/09/internship-at-betacraft/</guid><description>&lt;p>Hello there.&lt;/p>
+&lt;p>It has been time, since i have made an attempt to update my blog with the ongoing’s of my life. But now would be the right time probably.&lt;/p>
+&lt;p>Alot have changed in some months, like i am now a 4th Year Final student at Jaypee University of Engineering and Technology(JUET), Guna. That’s pretty bad-ass bro.&lt;/p>
+&lt;p>And as every engineer need to complete a mandatory training/internship at the end of the 3rd Year of B.Tech i also did.&lt;/p></description></item><item><title>Moments from GopherConIndia 2015</title><link>https://yashrs.com/2015/02/moments-from-gopherconindia-2015/</link><pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><guid>https://yashrs.com/2015/02/moments-from-gopherconindia-2015/</guid><description>&lt;p>Moments from GopherConIndia, Bangalore, Hotel Royal Orchid.&lt;/p>
+&lt;p>19th-21st February, 2015.&lt;/p>
+&lt;p>&lt;a href="http://www.gophercon.in/">GopherCon India&lt;/a>&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o3_1280.jpg" 
+ alt="" 
+ 
+ width=1280 
+ height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o9_1280.jpg" 
+ alt="" 
+ 
+ width=1280 
+ height="850" />&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2015/02/moments-from-gopherconindia-2015/tumblr_nkfjg7OyRZ1ttna56o2_1280.jpg" 
+ alt="Yash Raj Singh at GopherConIndia" 
+ title="Yash Raj Singh at GopherConIndia" 
+ width=1280 
+ height="850" />&lt;/p></description></item><item><title>Connect Cyberoam WiFi on Windows Phone 8.1</title><link>https://yashrs.com/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</link><pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/</guid><description>&lt;p>Connect to Cyberoam WiFi Networks on Windows Phone 8.1&lt;/p>
+&lt;p>Since the dawn of Windows Phone. It has been a sad sad journey for EAP
+WiFi network users to enjoy internet access.&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2014/08/connect-cyberoam-wifi-on-windows-phone-8.1/tumblr_inline_nantg7ie0o1sa1q7i.jpg" 
+ alt="image" 
+ 
+ width=500 
+ height="375" />&lt;/p>
+&lt;p>For college students to connect to their wonderful college WiFi. So they
+can enjoy the sweat taste of internet information.&lt;/p>
+&lt;blockquote>
+&lt;p>Note: This requires Windows Phone 8.1.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>But not anymore.&lt;/strong>&lt;/p>
+&lt;p>This tutorial will help connect their windows phones to Cyber-Roam based
+Hidden WiFi Networks which works on &lt;em>EAP-TLS Wireless authentication system.&lt;/em>&lt;/p></description></item><item><title>Moments From Dextra 2K14 - JUET, Guna</title><link>https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/</link><pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate><guid>https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/</guid><description>&lt;p>&lt;a href="http://www.dextrajuet.org/">Dextra 2K14, JUET&lt;/a>&lt;/p>
+&lt;p>Technical Festival for Jaypee University of Engineering and Technology, Guna.&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o4_1280.png" 
+ alt="Yash Raj Singh at JUET" 
+ 
+ width=960 
+ height="457" />&lt;/p>
+&lt;p>&lt;img loading="lazy" 
+ src="https://yashrs.com/2014/05/moments-from-dextra-2k14-juet-guna/tumblr_n55648PnCD1ttna56o1_1280.jpg" 
+ alt="Yash Raj Singh at JUET" 
+ 
+ width=960 
+ height="436" />&lt;/p></description></item></channel></rss>

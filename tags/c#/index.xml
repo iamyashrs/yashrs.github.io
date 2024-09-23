@@ -1,3 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C# on Yash</title><link>https://yashrs.com/tags/c%23/</link><description>Recent content in C# on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Sun, 09 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/tags/c%23/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>Project Yello Project Yello
-In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.
-The things we were taught in college, were of no use most of the times, because students didn&amp;rsquo;t worked on projects i.e. to apply that knowledge they learned atleast once, so they would get a better prespective of how, why, when, what of that knowledge.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C# on Yash</title><link>https://yashrs.com/tags/c%23/</link><description>Recent content in C# on Yash</description><generator>Hugo</generator><language>en-us</language><copyright>Yash Raj Singh</copyright><lastBuildDate>Sun, 09 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://yashrs.com/tags/c%23/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Yello</title><link>https://yashrs.com/2013/06/project-yello/</link><pubDate>Sun, 09 Jun 2013 00:00:00 +0000</pubDate><guid>https://yashrs.com/2013/06/project-yello/</guid><description>&lt;h2 id="project-yello">
+ &lt;a href="#project-yello" class="anchor">
+ &lt;svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+ &lt;path fill-rule="evenodd"
+ d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+ &lt;/path>
+ &lt;/svg>
+ &lt;/a>
+ Project Yello
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/iamyashrs/ProjectYello-Desktop">Project Yello&lt;/a>&lt;/p>
+&lt;p>In June 2014, I started working on Project Yello, The idea was simple. While my time in college, i realized that there is a huge gap between &amp;lsquo;what student learned&amp;rsquo; and &amp;lsquo;what student is taught&amp;rsquo;.&lt;/p></description></item></channel></rss>
